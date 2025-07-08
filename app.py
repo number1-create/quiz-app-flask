@@ -340,6 +340,8 @@ def add_header(response):
 
 # ==============================================================================
 
+load_all_questions_into_bank()
+
 if __name__ == '__main__':
-    load_all_questions_into_bank()
+    
     app.run(debug=True, port=5002)
