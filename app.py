@@ -21,17 +21,17 @@ EXAMS = {
     'fe-mechanical': {
         'display_name': 'FE Mechanical Exam',            
         'filenames': ['quiz_ROBUSTO_FINALE_v6.txt'],     #nome file 
-        'num_questions': 2                        #numero domande per ogni test
+        'num_questions': 2                           #numero domande per ogni test
     },
     'ged': {
         'display_name': 'GED Practice Test',
         'filenames': ['ged_test_output.txt'],            #nome file 
-        'num_questions': 110                          #numero domande per ogni test
+        'num_questions': 2                            #numero domande per ogni test
     },
     'asvab' : {
         'display_name': 'ASVAB Exam Prep',            
         'filenames': ['PRACTICE TEST - ASVAB EXAM PREP.txt'],
-        'num_questions': 110                        #numero domande per ogni test
+        'num_questions': 2                          #numero domande per ogni test
     },
 }
 
@@ -72,8 +72,6 @@ def parse_quiz_file_v2(file_content, filename="<unknown>"):
     for area in it:
         content = next(it, '')
         sections.append((area.strip(), content))
-
-        print(f"[DIAGNOSTICA] File '{filename}': Trovate {len(sections)} sezioni totali. Aree: {[s[0] for s in sections]}")
 
     for area, content in sections:
         if ANSWER_HEADER not in content:
