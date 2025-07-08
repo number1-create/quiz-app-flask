@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+
+{% block title %}
+    {{ exam_title }} - Quiz Platform
+{% endblock %}
+
+{% block content %}
+    <h1 class="quiz-title">{{ exam_title }}</h1>
+    
+    <form action="{{ url_for('submit') }}" method="POST">
+        {# 
+            Questo è un ciclo Jinja che itera sulla lista 'questions' 
+            ricevuta dalla funzione 'quiz()' in app.py.
+        #}
+        {% for q in questions %}
+            <div class="question-block">
+                
+                {# Testo della domanda. 'loop.index' è una variabile speciale di Jinja che conta le iterazioni. #}
+                <p class="question-text">
+                    <strong>Question {{ loop.index }}:</strong> 
+                    {# 
+                       Il filtro '| safe' è necessario per renderizzare correttamente 
+                       le formule matematiche di MathJax, evitando che Jinja "escapizzi" 
+                       i caratteri speciali come le backslash. 
+                    #}
+                    {{ q.text | safe }}
+                </p>
+                
+                <div class="options">
+                    {# 
+                       Iteriamo sulle opzioni della domanda. Il filtro '| sort' 
+                       assicura che le opzioni siano sempre in ordine alfabetico (A, B, C, D).
+                    #}
+                    {% for letter, option_text in q.options.items() | sort %}
+                        <label class="option-label">
+                            {# 
+                                L'attributo 'name' è cruciale. Deve essere unico per ogni domanda.
+                                Usiamo 'q' seguito dall'ID della domanda (es. 'q101').
+                                L'attributo 'required' impedisce all'utente di inviare il form 
+                                senza aver risposto a tutte le domande.
+                            #}
+                            <input type="radio" name="q{{ q.id }}" value="{{ letter }}" required>
+                            <span><strong>{{ letter }})</strong> {{ option_text | safe }}</span>
+                        </label>
+                    {% endfor %}
+                </div>
+            </div>
+        {% else %}
+            {# 
+                Questo blocco viene mostrato solo se la lista 'questions' è vuota.
+                Il link ora punta correttamente alla funzione 'start_quiz' che 
+                avvia una nuova sessione di quiz.
+            #}
+                <div class="card">
+            <h2>No Questions Found</h2>
+            <p>The questions for this quiz could not be loaded. There might be a configuration issue.</p>
+            <div class="actions-footer">
+                <a href="{{ url_for('index') }}" class="button-link">Return Home and Try Again</a>
+            </div>
+        </div>
+    {% endfor %}
+
+        {# Mostra il pulsante di invio solo se ci sono effettivamente domande da inviare. #}
+        {% if questions %}
+            <div class="actions-footer">
+               <button type="submit" class="button-submit">Submit Answers</button>
+            </div>
+        {% endif %}
+    </form>
+{% endblock %}

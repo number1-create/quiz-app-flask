@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Results - {{ exam_title }}
+{% endblock %}
+
+{% block content %}
+    <div class="card results-summary">
+        <h1>Results: {{ exam_title }}</h1>
+        <div class="score-summary">
+            <p>Final Score: <strong>{{ score }}</strong> out of <strong>{{ total }}</strong>.</p>
+        </div>
+
+        {# 
+           Questa sezione viene mostrata solo se la variabile 'advice' 
+           è stata definita e non è vuota.
+        #}
+        {% if advice %}
+        <div class="study-advice">
+            <h3>Study Advice</h3>
+            <p>{{ advice }}</p>
+        </div>
+    {% endif %}
+    </div>
+
+    <h2 class="review-title">Detailed Answer Review</h2>
+
+    {# 
+       Iteriamo sulla lista 'results'. Ogni elemento 'r' è un dizionario 
+       contenente la domanda, la risposta dell'utente e se era corretta.
+    #}
+    {% for r in results %}
+        {# 
+           Aggiungiamo una classe CSS diversa a seconda che la risposta 
+           sia corretta o sbagliata, per lo stile visivo.
+        #}
+        <div class="question-block review {% if r.is_correct %}correct-block{% elif r.is_correct == False %}incorrect-block{% else %}no-answer-block{% endif %}">
+            
+           <p class="question-text"><strong>Question {{ loop.index }}
+                <span class="topic-badge">[{{ r.question.topic }}]</span>
+                <br>
+                {# Usiamo il filtro '| safe' per il rendering delle formule MathJax #}
+                {{ r.question.text | safe }}
+            </p>
+            
+            <ul class="answers-review">
+                <li>
+                    <strong>Your answer:</strong>
+                    {# 
+                       Controlliamo se l'utente ha dato una risposta. 
+                       In caso contrario, mostriamo un messaggio specifico.
+                    #}
+                    {% if r.user_answer %}
+                        <em>{{ r.user_answer }}</em>
+                    {% else %}
+                        <em class="no-answer">- no answer -</em>
+                    {% endif %}
+                </li>
+                
+                {# Feedback visivo e testo della risposta corretta #}
+                {% if r.is_correct %}
+                    <li class="feedback correct-feedback">✓ Correct!</li>
+                {% elif r.is_correct == False %}
+                    <li class="feedback incorrect-feedback">✗ Incorrect. The correct answer was: <strong>{{ r.question.correct_answer }}</strong></li>
+                {% else %}
+                     <li class="feedback no-answer-feedback">? The correct answer was: <strong>{{ r.question.correct_answer }}</strong></li>
+                {% endif %}
+            </ul>
+
+            {# Mostriamo sempre la spiegazione, se esiste. È fondamentale per l'apprendimento. #}
+            {% if r.question.explanation %}
+                <div class="explanation">
+                    <strong>Explanation:</strong>
+                    <p>{{ r.question.explanation | safe }}</p>
+                </div>
+            {% endif %}
+        </div>
+    {% endfor %}
+
+    {# Link per riprovare il quiz o tornare alla home. Entrambi puntano a 'start_quiz'. #}
+    <div class="actions-footer">
+        <a href="{{ url_for('index') }}" class="button-link secondary">
+     Return Home / Choose Another Exam
+</a>
+        {# Stiamo aggiungendo il parametro exam_key=exam_key #}
+<a href="{{ url_for('start_quiz', exam_key=exam_key) }}" class="button-link">
+    Riprova il Quiz
+</a>
+    </div>
+{% endblock %}

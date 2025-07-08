@@ -1,0 +1,439 @@
+[Generale] 1001. 𝐴 closed system receives 150 kJ of heat while doing 50 kJ of work. What is the change in internal energy of the system? 𝐴) 200 kJ 𝐵) 100 kJ 𝐶) 150 kJ 𝐷) 50 kJ 𝑚3
+
+[Generale] 1002. 𝐴 pump delivers water at 𝑎 flow rate of 0.03 𝑠with an outlet pressure of 400 kPa. If the elevation difference between the pump inlet and outlet is 10 m, what is the required power input assuming no friction losses? 𝐴) 12 kW 𝐵) 15 kW 𝐶) 18 kW 𝐷) 21 kW
+
+[Generale] 1003. 𝐴 solid circular shaft is subjected to 𝑎 torque of 500 Nm. If the allowable shear stress of the material is 100 MPa, what is the minimum required diameter of the shaft? 𝐴) 20 mm 𝐵) 25 mm 𝐶) 30 mm 𝐷) 35 mm
+
+[Generale] 1004. 𝐴 flat wall has 𝑎 thermal conductivity of 0.8 𝑊 𝑚· 𝐾 and 𝑎 thickness of 0.1 m. If the temperature difference across the wall is 50°C, what is the heat transfer rate per unit area? 𝑊 𝐴) 400 𝑚2 𝑊 𝐵) 500 𝑚2 𝑊 𝐶) 600 𝑚2 𝑊 𝐷) 700 𝑚2
+
+[Generale] 1005. 𝐴 5 kg block slides down an inclined plane with an angle of 30° and 𝑎 coefficient of kinetic friction of 0.2. What is the acceleration of the block? 𝑚 𝐴) 3.0 𝑠2 𝑚 𝐵) 4.2 𝑠2 𝑚 𝐶) 5.0 𝑠2 𝑚 𝐷) 6.1 𝑠2
+
+[Generale] 1006. What is the factor of safety for 𝑎 bolt with an ultimate tensile strength of 800 MPa and 𝑎 working stress of 200 MPa? 𝐴) 2 𝐵) 3 𝐶) 4 𝐷) 5
+
+[Generale] 1007. 𝐴 steel bar with 𝑎 Young’s modulus of 200 GPa is subjected to 𝑎 tensile stress of 100 MPa. What is the strain in the bar? 𝐴) 0.0003 𝐵) 0.0005 𝐶) 0.0007 𝐷) 0.0009
+
+[Generale] 1008. An ideal gas undergoes an isothermal expansion, doubling its volume. What happens to the pressure of the gas? 𝐴) The pressure doubles. 𝐵) The pressure halves. 𝐶) The pressure remains constant. 𝐷) The pressure decreases by 𝑜𝑛𝑒−𝑓𝑜𝑢𝑟𝑡ℎ. 𝑎 pipe with 𝑎 diameter9. What is the Reynolds number for water flowing at 𝑎 velocity of 2 𝑚𝑠in 𝑎 dynamic viscosity of 0.001 Pa·s.of 0.05 m? Assume water has 𝑎 density of 1000 𝑚3and𝑘𝑔 𝐴) 50,000 𝐵) 100,000 𝐶) 200,000 𝐷) 400,000
+
+[Generale] 1010. 𝐴 cylindrical rod with 𝑎 diameter of 0.02 𝑚 and 𝑎 length of 1 𝑚 experiences 𝑎 heat loss of 30 W. If its surface temperature is 100°C and the ambient temperature is 25°C, what is the convective heat transfer coefficient? 𝑊 𝐴) 10 · 𝐾 𝑚2 𝑊 𝐵) 15 · 𝐾 𝑚2 𝑊 𝐶) 20 · 𝐾 𝑚2 𝑊 𝐷) 25 · 𝐾 𝑚2
+
+[Generale] 1011. 𝐴 heat engine operates between two reservoirs at temperatures of 600 𝐾 and 300 K. If the engine produces 250 kJ of work, what is the minimum amount of heat it must absorb from the ℎ𝑖𝑔ℎ−𝑡𝑒𝑚𝑝𝑒𝑟𝑎𝑡𝑢𝑟𝑒 reservoir? 𝐴) 500 kJ 𝐵) 375 kJ 𝐶) 300 kJ 𝐷) 250 kJ
+
+[Generale] 1012. Water flows through 𝑎 nozzle with 𝑎 velocity of 20 𝑚 𝑠. The pressure at the inlet of the nozzle is 250 kPa, and the velocity is negligible. What is the pressure at the outlet of the nozzle if the density of water is 1000 𝑘𝑔 ? 𝑚3 𝐴) 150 kPa 𝐵) 180 kPa 𝐶) 200 kPa 𝐷) 230 kPa
+
+[Generale] 1013. 𝐴 rectangular beam with 𝑎 width of 0.1 𝑚 and height of 0.2 𝑚 is subjected to 𝑎 bending moment of 500 Nm. What is the maximum bending stress in the beam? 𝐴) 12.5 MPa 𝐵) 15.0 MPa 𝐶) 25.0 MPa 𝐷) 30.0 MPa
+
+[Generale] 1014. 𝐴 fin has 𝑎 thermal conductivity of 200 𝑊 𝑚· 𝐾, 𝑎 length of 0.5 m, and 𝑎 𝑐𝑟𝑜𝑠𝑠− 𝑠𝑒𝑐𝑡𝑖𝑜𝑛𝑎𝑙 area of 0.01 m². If the temperature at the base is 100°C and the surrounding air is at 25°C, what is the heat transfer rate assuming the fin operates under 𝑠𝑡𝑒𝑎𝑑𝑦− 𝑠𝑡𝑎𝑡𝑒 conditions? 𝐴) 75 𝑊 𝐵) 150 𝑊 𝐶) 200 𝑊 𝐷) 250 𝑊
+
+[Generale] 1015. 𝐴 flywheel with 𝑎 moment of inertia of 0.5 kg·m² is rotating at 100 𝑟𝑎𝑑 𝑠. What is the kinetic energy of the flywheel? 𝐴) 2500 𝐽 𝐵) 5000 𝐽 𝐶) 7500 𝐽 𝐷) 10000 𝐽
+
+[Generale] 1016. 𝐴 shaft is subjected to an axial load of 10 kN and 𝑎 torsional moment of 50 Nm. If the shaft diameter is 0.05 m, what is the combined stress at the surface of the shaft? 𝐴) 8.5 MPa 𝐵) 11.4 MPa 𝐶) 14.3 MPa 𝐷) 17.2 MPa
+
+[Generale] 1017. 𝐴 rigid tank contains 2 kg of air at an initial pressure of 200 kPa and temperature of 300 K. Heat is added to the tank until the temperature reaches 400 K. Assuming constant specific heats, what is the final pressure in the tank? 𝐴) 267 kPa 𝐵) 400 kPa 𝐶) 300 kPa 𝐷) 533 kPa
+
+[Generale] 1018. 𝐴 pipe with 𝑎 diameter of 0.5 𝑚 carries oil at 𝑎 velocity of 3 𝑚 𝑠. If the dynamic viscosity of the oil is 0.1 Pa·s and the density is 900 𝑘𝑔 what is the flow regime? 𝑚3, 𝐴) Laminar 𝐵) Turbulent 𝐶) Transitional 𝐷) Unable to determine
+
+[Generale] 1019. 𝐴 cantilever beam is subjected to 𝑎 concentrated load of 500 𝑁 at its free end. The beam has 𝑎 length of 2 m, 𝑎 Young’s modulus of 200 GPa, and 𝑎 moment of inertia of 0.0001 m⁴. What is the deflection at the free end? 𝐴) 5.0 mm 𝐵) 2.5 mm 𝐶) 10.0 mm 𝐷) 7.5 mm
+
+[Generale] 1020. 𝐴 composite wall consists of two layers with thermal conductivities k₁ = 1 𝑊 𝑚· 𝐾 and k₂ = 0.5 𝑊 𝑚· 𝐾. The thickness of each layer is 0.1 m. If the temperature difference across the wall is 50°C, what is the total heat transfer per unit area? 𝐴) 125 𝑊 𝐵) 250 𝑊 𝐶) 100 𝑊 𝐷) 200 𝑊
+
+[Generale] 1021. 𝐴 car accelerates uniformly from rest to 𝑎 velocity of 20 𝑚𝑠in 5 seconds. What is the total distance traveled by the car during this time? 𝐴) 50 𝑚 𝐵) 100 𝑚 𝐶) 150 𝑚 𝐷) 200 𝑚
+
+[Generale] 1022. 𝐴 𝑚𝑎𝑠𝑠−𝑠𝑝𝑟𝑖𝑛𝑔 system has 𝑎 mass of 2 kg and 𝑎 spring constant of 400 𝑁 𝑚. What is the natural frequency of the system? 𝐴) 5 Hz 𝐵) 10 Hz 𝐶) 7.1 Hz 𝐷) 6.3 Hz
+
+[Generale] 1023. 𝐴 shaft transmits 10 kW of power at 300 rpm. Determine the torque acting on the shaft. 𝐴) 318.3 Nm 𝐵) 159.2 Nm 𝐶) 477.5 Nm 𝐷) 796.2 Nm
+
+[Generale] 1024. For 𝑎 𝑠𝑒𝑐𝑜𝑛𝑑−𝑜𝑟𝑑𝑒𝑟 system with 𝑎 damping ratio of 0.7 and 𝑎 natural frequency of 5 𝑟𝑎𝑑 what is the peak time of the system? 𝑠, 𝐴) 0.628 𝑠 𝐵) 1.257 𝑠 𝐶) 2.0 𝑠 𝐷) 0.314 𝑠
+
+[Generale] 1025. 𝐴 steam turbine operates with an inlet steam pressure of 2 MPa and an outlet pressure of 0.1 MPa. If the isentropic efficiency is 85%, what is the actual work output per unit mass of steam? 𝑘𝐽 𝐴) 800 𝑘𝑔 𝑘𝐽 𝐵) 850 𝑘𝑔 𝑘𝐽 𝐶) 765 𝑘𝑔 𝑘𝐽 𝐷) 900 𝑘𝑔
+
+[Generale] 1026. 𝐴 cylindrical rod with 𝑎 𝑐𝑟𝑜𝑠𝑠−𝑠𝑒𝑐𝑡𝑖𝑜𝑛𝑎𝑙 area of 0.005 m² and 𝑎 stress of 100 MPa is subjected to 𝑎 tensile load. What is the tensile force acting on the rod? 𝐴) 500 𝑁 𝐵) 1000 𝑁 𝐶) 5000 𝑁 𝐷) 10,000 𝑁
+
+[Generale] 1027. 𝐴 hydraulic lift raises 𝑎 car weighing 1500 kg using oil with 𝑎 density of 850 𝑘𝑔 𝑚3. If the lift’s piston has 𝑎 diameter of 0.2 m, what is the pressure required to lift the car? 𝐴) 58 kPa 𝐵) 74 kPa 𝐶) 94 kPa 𝐷) 108 kPa
+
+[Generale] 1028. 𝐴 𝑝𝑖𝑠𝑡𝑜𝑛−𝑐𝑦𝑙𝑖𝑛𝑑𝑒𝑟 device contains 0.5 kg of air initially at 200 kPa and 300 K. The air undergoes an isobaric process until the volume doubles. How much heat is transferred during this process? 𝐴) 48.3 kJ 𝐵) 58.1 kJ 𝐶) 72.5 kJ 𝐷) 85.2 kJ
+
+[Generale] 1029. 𝐴 horizontal pipe with 𝑎 diameter of 0.1 𝑚 and 𝑎 length of 10 𝑚 carries water at 𝑎 flow rate 𝑚3 of 0.02 𝑠. If the friction factor is 0.02, what is the head loss due to friction? 𝐴) 0.4 𝑚 𝐵) 0.8 𝑚 𝐶) 1.2 𝑚 𝐷) 1.6 𝑚
+
+[Generale] 1030. 𝐴 cylindrical fin has 𝑎 diameter of 0.01 m, 𝑎 length of 0.5 m, and 𝑎 thermal conductivity of 150 𝑊 𝑚· 𝐾. If the fin base temperature is 100°C and the ambient temperature is 25°C, what is the rate of heat transfer? 𝐴) 18 𝑊 𝐵) 24 𝑊 𝐶) 30 𝑊 𝐷) 36 𝑊
+
+[Generale] 1031. 𝐴 rectangular steel plate with dimensions 0.2 𝑚 × 0.3 𝑚 is subjected to 𝑎 uniform tensile stress of 250 MPa. Calculate the maximum deformation if the Young's modulus is 200 GPa. 𝐴) 0.125 mm 𝐵) 0.150 mm 𝐶) 0.200 mm 𝐷) 0.250 mm
+
+[Generale] 1032. 𝐴 block sliding on 𝑎 horizontal surface has 𝑎 mass of 10 kg and is subjected to 𝑎 force of 50 N. If the coefficient of kinetic friction between the block and the surface is 0.3, calculate its acceleration. 𝑚 𝐴) 2.0 𝑠2 𝑚 𝐵) 2.5 𝑠2 𝑚 𝐶) 3.0 𝑠2 𝑚 𝐷) 3.5 𝑠2
+
+[Generale] 1033. 𝐴 gear transmits 5 kW of power at 𝑎 speed of 500 rpm. If the allowable tangential force on the gear teeth is 200 N, calculate the minimum gear radius. 𝐴) 0.095 𝑚 𝐵) 0.127 𝑚 𝐶) 0.160 𝑚 𝐷) 0.200 𝑚
+
+[Generale] 1034. An ideal gas is compressed in 𝑎 polytropic process with 𝑛 = 1.3. The initial pressure is 200 kPa and the final pressure is 600 kPa. Calculate the work done during this process. 𝐴) −35 kJ 𝐵) −40 kJ 𝐶) −45 kJ 𝐷) −50 kJ
+
+[Generale] 1035. 𝐴 Pitot tube measures the velocity of air. If the stagnation pressure is 1.5 kPa and the static pressure is 1 kPa with air density of 1.2 𝑘𝑔 calculate the velocity. 𝑚3, 𝑚 𝐴) 18.26 𝑠 𝑚 𝐵) 21.27 𝑠 𝑚 𝐶) 25.06 𝑠 𝑚 𝐷) 28.34 𝑠
+
+[Generale] 1036. 𝐴 simply supported beam with 𝑎 span of 5 𝑚 carries 𝑎 uniform load of 2 𝑘𝑁 𝑚. Calculate the maximum bending moment. 𝐴) 12.5 kNm 𝐵) 15.0 kNm 𝐶) 20.0 kNm 𝐷) 25.0 kNm
+
+[Generale] 1037. Steam enters 𝑎 turbine at 3 MPa and 500°C and leaves at 0.1 MPa with 𝑎 quality of 0.9. Calculate the work produced per unit mass. 𝑘𝐽 𝐴) 1,050 𝑘𝑔 𝑘𝐽 𝐵) 1,200 𝑘𝑔 𝑘𝐽 𝐶) 1,350 𝑘𝑔 𝑘𝐽 𝐷) 1,500 𝑘𝑔
+
+[Generale] 1038. 𝐴 plate with an area of 1 m² has an emissivity of 0.8 and 𝑎 surface temperature of 500 K. The surrounding temperature is 300 K. Calculate the net radiative heat transfer. 𝐴) 1.5 kW 𝐵) 2.1 kW 𝐶) 2.7 kW 𝐷) 3.3 kW
+
+[Generale] 1039. 𝐴 pendulum has 𝑎 length of 2 𝑚 and oscillates with 𝑎 maximum angular displacement of 30°. Calculate the period of oscillation. 𝐴) 1.85 𝑠 𝐵) 2.43 𝑠 𝐶) 2.83 𝑠 𝐷) 3.16 𝑠
+
+[Generale] 1040. 𝐴 shaft is designed to transmit 20 kW of power at 1500 rpm. If the allowable shear stress is 50 MPa, calculate the required shaft diameter. 𝐴) 0.035 𝑚 𝐵) 0.045 𝑚 𝐶) 0.055 𝑚 𝐷) 0.065 𝑚
+
+[Generale] 1041. 𝐴 water pump delivers water at 𝑎 rate of 30 𝐿𝑠with an outlet pressure of 500 kPa. If the pump’s efficiency is 80%, calculate the input power required. 𝐴) 18.75 kW 𝐵) 20.83 kW 𝐶) 22.50 kW 𝐷) 25.00 kW
+
+[Generale] 1042. 𝐴 hot wire with 𝑎 diameter of 0.01 𝑚 dissipates heat at 𝑎 rate of 100 𝑊 𝑚. If the wire is exposed to air at 25°C, calculate the surface temperature assuming 𝑎 convective heat transfer coefficient of 50 𝑊 · 𝐾. 𝑚2 𝐴) 45°C 𝐵) 55°C 𝐶) 65°C 𝐷) 75°C
+
+[Generale] 1043. 𝐴 car with 𝑎 mass of 1200 kg accelerates uniformly from rest to 25 𝑚𝑠in 10 seconds. Calculate the force required. 𝐴) 2.5 kN 𝐵) 3.0 kN 𝐶) 3.5 kN 𝐷) 4.0 kN
+
+[Generale] 1044. 𝐴 cylindrical steel rod with 𝑎 diameter of 0.02 𝑚 is subjected to 𝑎 tensile load of 10 kN. Calculate the stress on the rod. 𝐴) 20 MPa 𝐵) 25 MPa 𝐶) 30 MPa 𝐷) 40 MPa
+
+[Generale] 1045. 𝐴 closed system undergoes an adiabatic compression where the pressure increases from 𝑚3 𝑚3 100 kPa to 500 kPa and the specific volume decreases from 1 𝑘𝑔to 0.2 𝑘𝑔. Calculate the work done. 𝐴) 50 kJ 𝐵) 60 kJ 𝐶) 70 kJ 𝐷) 80 kJ
+
+[Generale] 1046. 𝐴 bolt made of steel is subjected to 𝑎 tensile load of 25 kN and has 𝑎 𝑐𝑟𝑜𝑠𝑠− 𝑠𝑒𝑐𝑡𝑖𝑜𝑛𝑎𝑙 area of 50 mm². If the ultimate tensile strength is 600 MPa, calculate the factor of safety. 𝐴) 4.0 𝐵) 4.8 𝐶) 5.2 𝐷) 6.0
+
+[Generale] 1047. 𝐴 composite wall consists of two layers with thermal conductivities k₁ = 1 𝑊 𝑚· 𝐾 and k₂ = 0.5 𝑊 𝑚· 𝐾. The thicknesses are 0.02 𝑚 and 0.03 m, respectively. Calculate the overall heat transfer coefficient. 𝑊 𝐴) 15 · 𝐾 𝑚2 𝑊 𝐵) 20 · 𝐾 𝑚2 𝑊 𝐶) 25 · 𝐾 𝑚2 𝑊 𝐷) 30 · 𝐾 𝑚2
+
+[Generale] 1048. 𝐴 𝑝𝑖𝑠𝑡𝑜𝑛−𝑐𝑦𝑙𝑖𝑛𝑑𝑒𝑟 device contains 2 kg of steam at 1 MPa and 𝑎 temperature of 200°C. Heat is added until the pressure remains constant and the volume doubles. What is the final temperature of the steam? 𝐴) 300°C 𝐵) 400°C 𝐶) 500°C 𝐷) 600°C
+
+[Generale] 1049. 𝐴 pipe with 𝑎 diameter of 0.2 𝑚 carries water at 𝑎 velocity of 4 𝑚 𝑠. If the dynamic viscosity of water is 1 × 10⁻³ Pa·s, calculate the Reynolds number for the flow. 𝐴) 4000 𝐵) 8000 𝐶) 16000 𝐷) 32000
+
+[Generale] 1050. 𝐴 flat plate has 𝑎 thermal conductivity of 2 𝑊 𝑚· 𝐾 and 𝑎 thickness of 0.05 m. The surface temperatures are maintained at 100°C and 20°C. What is the heat flux through the plate? 𝑊 𝐴) 160 𝑚2 𝑊 𝐵) 240 𝑚2 𝑊 𝐶) 320 𝑚2 𝑊 𝐷) 400 𝑚2
+
+[Generale] 1051. 𝐴 beam with 𝑎 rectangular 𝑐𝑟𝑜𝑠𝑠−𝑠𝑒𝑐𝑡𝑖𝑜𝑛 of 0.1 𝑚 × 0.2 𝑚 is subjected to 𝑎 bending moment of 2000 Nm. Calculate the maximum bending stress. 𝐴) 50 MPa 𝐵) 100 MPa 𝐶) 150 MPa 𝐷) 200 MPa
+
+[Generale] 1052. 𝐴 car with 𝑎 mass of 1500 kg accelerates uniformly from rest to 𝑎 velocity of 30 𝑚𝑠in 10 seconds. Calculate the required force. 𝐴) 3000 𝑁 𝐵) 4500 𝑁 𝐶) 6000 𝑁 𝐷) 7500 𝑁
+
+[Generale] 1053. 𝐴 gear transmits 15 kW of power at 𝑎 rotational speed of 600 rpm. If the allowable tangential force is 500 N, calculate the required pitch radius of the gear. 𝐴) 0.5 𝑚 𝐵) 0.75 𝑚 𝐶) 1 𝑚 𝐷) 1.5 𝑚
+
+[Generale] 1054. 𝐴 heat pump operates between 𝑎 heat source at 10°C and 𝑎 heat sink at 50°C. If the heat pump has 𝑎 coefficient of performance (𝐶𝑂𝑃)of 4, calculate the work input required to deliver 5000 𝑊 of heating. 𝐴) 1250 𝑊 𝐵) 1500 𝑊 𝐶) 2000 𝑊 𝐷) 2500 𝑊
+
+[Generale] 1055. An ideal Brayton cycle operates between intake air at 300 𝐾 and 𝑎 maximum cycle temperature of 1200 K. Calculate the ideal thermal efficiency of the cycle. 𝐴) 50% 𝐵) 60% 𝐶) 65% 𝐷) 70% 𝑚3
+
+[Generale] 1056. 𝐴 centrifugal pump delivers water at 𝑎 flow rate of 0.02 𝑠and 𝑎 head of 20 m. If the pump efficiency is 80%, calculate the power required to drive the pump. 𝐴) 500 𝑊 𝐵) 1000 𝑊 𝐶) 1500 𝑊 𝐷) 2000 𝑊
+
+[Generale] 1057. 𝐴 cylindrical steel rod with 𝑎 diameter of 0.03 𝑚 is subjected to 𝑎 tensile load of 30 kN. Calculate the normal stress in the rod. 𝐴) 42.5 MPa 𝐵) 56.6 MPa 𝐶) 70.9 MPa 𝐷) 85.3 MPa
+
+[Generale] 1058. 𝐴 heat exchanger is designed to transfer 50 kW of heat between hot and cold fluids. The hot fluid enters at 120°C and leaves at 80°C, while the cold fluid enters at 40°C and exits at 70°C. If the specific heat capacity of the hot fluid is 2 𝑘𝐽 𝑘𝑔· 𝐾 and its mass flow rate is 0.5 𝑘𝑔 what is the mass flow rate of the cold fluid? 𝑠, 𝑘𝑔 𝐴) 1.0 𝑠 𝑘𝑔 𝐵) 0.75 𝑠 𝑘𝑔 𝐶) 0.5 𝑠 𝑘𝑔 𝐷) 1.5 𝑠
+
+[Generale] 1059. 𝐴 cylindrical tank with 𝑎 diameter of 2 𝑚 and 𝑎 height of 4 𝑚 is filled with water. 𝐴 small hole is created at the bottom of the tank. If the water exits at 𝑎 velocity determined by Torricelli’s law (𝑣 = √2𝑔ℎ), what is the velocity of the water exiting the hole? 𝑚 𝐴) 8.85 𝑠 𝑚 𝐵) 6.26 𝑠 𝑚 𝐶) 4.43 𝑠 𝑚 𝐷) 2.18 𝑠
+
+[Generale] 1060. 𝐴 steel rod with 𝑎 diameter of 0.03 𝑚 is subjected to 𝑎 tensile load of 50 kN. If the rod’s yield stress is 250 MPa, determine the factor of safety. 𝐴) 1.67 𝐵) 2.33 𝐶) 3.00 𝐷) 4.12
+
+[Generale] 1061. 𝐴 flat plate has 𝑎 thermal conductivity of 10 𝑊 𝑚· 𝐾 and 𝑎 thickness of 0.02 m. The left side of the plate is at 100°C, while the right side is at 25°C. What is the heat flux through the plate? 𝑊 𝐴) 37500 𝑚2 𝑊 𝐵) 25000 𝑚2 𝑊 𝐶) 12500 𝑚2 𝑊 𝐷) 5000 𝑚2
+
+[Generale] 1062. 𝐴 vehicle with 𝑎 mass of 1000 kg is traveling at 20 𝑚𝑠before applying brakes. If the vehicle comes to 𝑎 complete stop in 5 seconds, what is the average braking force acting on it? 𝐴) 4000 𝑁 𝐵) 5000 𝑁 𝐶) 2000 𝑁 𝐷) 8000 𝑁
+
+[Generale] 1063. 𝐴 gear with 𝑎 pitch diameter of 0.2 𝑚 transmits 1500 Nm of torque at 𝑎 rotational speed of 600 rpm. What is the tangential force acting on the gear teeth? 𝐴) 7500 𝑁 𝐵) 3000 𝑁 𝐶) 5000 𝑁 𝐷) 1500 𝑁
+
+[Generale] 1064. 𝐴 horizontal pipe with 𝑎 diameter of 0.1 𝑚 carries water at 𝑎 flow rate of 0.03 𝑚3 𝑠. Determine the velocity of water in the pipe. 𝑚 𝐴) 3.82 𝑠 𝑚 𝐵) 3.00 𝑠 𝑚 𝐶) 5.73 𝑠 𝑚 𝐷) 4.24 𝑠
+
+[Generale] 1065. 𝐴 refrigeration system operates between 𝑎 condenser at 40°C and an evaporator at −10°𝐶. If the system has 𝑎 coefficient of performance (𝐶𝑂𝑃)of 4, what is the work input required to remove 6 kW of heat from the evaporator? 𝐴) 1500 𝑊 𝐵) 2000 𝑊 𝐶) 1200 𝑊 𝐷) 2400 𝑊
+
+[Generale] 1066. 𝐴 beam with 𝑎 rectangular 𝑐𝑟𝑜𝑠𝑠−𝑠𝑒𝑐𝑡𝑖𝑜𝑛 has 𝑎 width of 0.1 m, 𝑎 height of 0.2 m, and is subjected to 𝑎 bending moment of 1000 Nm. What is the maximum stress in the beam? 𝐴) 75 MPa 𝐵) 125 MPa 𝐶) 50 MPa 𝐷) 100 MPa
+
+[Generale] 1067. 𝐴 shaft is transmitting 20 kW of power at 1200 rpm. If the allowable shear stress is 80 MPa, determine the minimum diameter of the shaft. 𝐴) 0.035 𝑚 𝐵) 0.045 𝑚 𝐶) 0.050 𝑚 𝐷) 0.065 𝑚
+
+[Generale] 1068. 𝐴 closed system undergoes 𝑎 process where it absorbs 500 kJ of heat while performing 200 kJ of work. What is the change in internal energy of the system? 𝐴) 300 kJ 𝐵) 700 kJ 𝐶) 500 kJ 𝐷) 200 kJ
+
+[Generale] 1069. Water flows steadily through 𝑎 horizontal pipe with 𝑎 contraction. The velocity increases from 2 𝑚𝑠to 6 𝑚𝑠as it moves to the narrower section. What is the corresponding pressure drop if the density of water is 1000 𝑘𝑔 ? 𝑚3 𝐴) 12 kPa 𝐵) 16 kPa 𝐶) 8 kPa 𝐷) 10 kPa
+
+[Generale] 1070. 𝐴 steel rod with 𝑎 modulus of elasticity of 200 GPa and 𝑎 𝑐𝑟𝑜𝑠𝑠−𝑠𝑒𝑐𝑡𝑖𝑜𝑛𝑎𝑙 area of 0.01 m² is subjected to an axial load of 100 kN. What is the elongation of the rod if its length is 2 m? 𝐴) 0.005 𝑚 𝐵) 0.01 𝑚 𝐶) 0.001 𝑚 𝐷) 0.002 𝑚
+
+[Generale] 1071. 𝐴 flat plate experiences 𝑎 𝑠𝑡𝑒𝑎𝑑𝑦−𝑠𝑡𝑎𝑡𝑒 heat conduction with 𝑎 thermal conductivity of 50 𝑊 𝑚· 𝐾 and 𝑎 thickness of 0.02 m. If the temperature difference across the plate is 20°C, what is the heat flux? 𝑊 𝐴) 50,000 𝑚2 𝑊 𝐵) 25,000 𝑚2 𝑊 𝐶) 10,000 𝑚2 𝑊 𝐷) 5,000 𝑚2
+
+[Generale] 1072. 𝐴 10 kg object is moving with 𝑎 velocity of 5 𝑚 𝑠. If 𝑎 20 𝑁 force is applied in the direction of motion for 5 seconds, what will be the final velocity of the object? 𝑚 𝐴) 15 𝑠 𝑚 𝐵) 10 𝑠 𝑚 𝐶) 20 𝑠 𝑚 𝐷) 12.5 𝑠
+
+[Generale] 1073. 𝐴 rotating shaft is subjected to 𝑎 bending moment of 500 Nm and 𝑎 torque of 300 Nm. What is the equivalent bending moment for design purposes? 𝐴) 800 Nm 𝐵) 600 Nm 𝐶) 700 Nm 𝐷) 900 Nm
+
+[Generale] 1074. An investment of $10,000 is expected to generate annual returns of $2,000 for 7 years. What is the payback period of the investment? 𝐴) 3 years 𝐵) 4 years 𝐶) 5 years 𝐷) 2 years
+
+[Generale] 1075. 𝐴 material has 𝑎 yield strength of 250 MPa and an ultimate strength of 400 MPa. If 𝑎 stress of 300 MPa is applied, what type of deformation is expected? 𝐴) Elastic 𝐵) Plastic 𝐶) Fracture 𝐷) No deformation
+
+[Generale] 1076. An air compressor takes in air at 300 𝐾 and compresses it to 600 𝐾 while rejecting 50 kJ of heat to the surroundings. If the work done on the air during the compression process is 100 kJ, what is the change in internal energy of the air? 𝐴) 150 kJ 𝐵) 100 kJ 𝐶) 50 kJ 𝐷) 0 kJ 𝑎 flat plate perpendicular to its77. 𝐴 water jet exits 𝑎 nozzle with 𝑎 velocity of 20 𝑚𝑠and strikes flow direction. If the mass flow rate of the water is 1 𝑘𝑔 what is the force exerted on the plate 𝑠, by the water jet? 𝐴) 20 𝑁 𝐵) 10 𝑁 𝐶) 40 𝑁 𝐷) 0 𝑁
+
+[Generale] 1078. 𝐴 cylindrical rod is subjected to 𝑎 tensile force. If the rod has 𝑎 diameter of 10 mm and an elongation of 0.5 mm under 𝑎 force of 5 kN, what is the strain experienced by the rod? 𝐴) 0.001 𝐵) 0.0005 𝐶) 0.005 𝐷) 0.0001
+
+[Generale] 1079. 𝐴 cylindrical pipe with an outer diameter of 0.1 𝑚 is covered with insulation of thermal conductivity 0.05 𝑊 𝑚· 𝐾. If the pipe is carrying hot fluid at 100°C and the ambient temperature is 20°C, what is the heat loss per meter length of the pipe assuming 𝑠𝑡𝑒𝑎𝑑𝑦−𝑠𝑡𝑎𝑡𝑒 heat conduction? 𝐴) 80 𝑊 𝐵) 100 𝑊 𝐶) 60 𝑊 𝐷) 40 𝑊
+
+[Generale] 1080. 𝐴 car accelerates uniformly from rest to 𝑎 velocity of 20 𝑚𝑠in 10 seconds. What is the total distance traveled by the car during this time? 𝐴) 100 𝑚 𝐵) 200 𝑚 𝐶) 50 𝑚 𝐷) 150 𝑚
+
+[Generale] 1081. 𝐴 shaft is designed to transmit 50 kW of power at 𝑎 rotational speed of 1500 rpm. What torque must the shaft withstand? 𝐴) 318 Nm 𝐵) 250 Nm 𝐶) 400 Nm 𝐷) 500 Nm
+
+[Generale] 1082. An equipment costs $20,000 and has an annual operating cost of $5,000. It generates an annual revenue of $12,000 for 5 years. What is the payback period? 𝐴) 4.0 years 𝐵) 3.33 years 𝐶) 2.5 years 𝐷) 5.0 years
+
+[Generale] 1083. 𝐴 𝑚𝑎𝑠𝑠−𝑠𝑝𝑟𝑖𝑛𝑔 system has 𝑎 natural frequency of 10 𝑟𝑎𝑑 𝑠. If the mass is doubled, what will be the new natural frequency? 𝑟𝑎𝑑 𝐴) 5 𝑠 𝑟𝑎𝑑 𝐵) 7.1 𝑠 𝑟𝑎𝑑 𝐶) 14 𝑠 𝑟𝑎𝑑 𝐷) 10 𝑠
+
+[Generale] 1084. 𝐴 𝑓𝑖𝑟𝑠𝑡−𝑜𝑟𝑑𝑒𝑟 control system has 𝑎 time constant of 2 seconds. What is the time required for the system to reach 90% of its final value after 𝑎 step input? 𝐴) 2 seconds 𝐵) 4.6 seconds 𝐶) 1.8 seconds 𝐷) 3.2 seconds
+
+[Generale] 1085. 𝐴 simply supported beam carries 𝑎 uniformly distributed load of 10 𝑘𝑁𝑚over its entire span of 5 m. What is the maximum bending moment in the beam? 𝐴) 50 kNm 𝐵) 62.5 kNm 𝐶) 125 kNm 𝐷) 100 kNm
+
+[Generale] 1086. 𝐴 heat engine operates between 𝑎 ℎ𝑖𝑔ℎ−𝑡𝑒𝑚𝑝𝑒𝑟𝑎𝑡𝑢𝑟𝑒 reservoir at 600 𝐾 and 𝑎 𝑙𝑜𝑤− 𝑡𝑒𝑚𝑝𝑒𝑟𝑎𝑡𝑢𝑟𝑒 reservoir at 300 K. If the engine produces 200 kJ of work per cycle, what is the maximum possible heat input? 𝐴) 300 kJ 𝐵) 400 kJ 𝐶) 600 kJ 𝐷) 800 kJ
+
+[Generale] 1087. Water flows through 𝑎 vertical pipe with 𝑎 diameter decrease. The velocity at the wider section is 4 𝑚 and the pressure is 200 kPa. At the narrower section, the diameter is halved. 𝑠, What is the pressure at the narrower section? Assume incompressible flow and neglect friction losses. 𝐴) 150 kPa 𝐵) 100 kPa 𝐶) 50 kPa 𝐷) 75 kPa
+
+[Generale] 1088. 𝐴 steel beam is subjected to 𝑎 bending moment. If the beam has 𝑎 rectangular 𝑐𝑟𝑜𝑠𝑠− 𝑠𝑒𝑐𝑡𝑖𝑜𝑛 with 𝑎 width of 0.2 𝑚 and 𝑎 height of 0.3 m, what is the maximum stress experienced when the bending moment is 500 Nm? 𝐴) 27.8 MPa 𝐵) 37.0 MPa 𝐶) 41.7 MPa 𝐷) 50.0 MPa
+
+[Generale] 1089. 𝐴 cylindrical fin with 𝑎 thermal conductivity of 200 𝑊 𝑚· 𝐾 is exposed to ambient air at 30°C. The base of the fin is at 80°C, and the fin has 𝑎 length of 0.1 𝑚 and 𝑎 diameter of 0.02 m. Assuming 𝑠𝑡𝑒𝑎𝑑𝑦−𝑠𝑡𝑎𝑡𝑒 conduction, what is the heat loss? 𝐴) 10 𝑊 𝐵) 15 𝑊 𝐶) 20 𝑊 𝐷) 25 𝑊 𝑎 stop in 10 seconds. What is the average deceleration90. 𝐴 vehicle moving at 30 𝑚𝑠comes to of the vehicle? 𝑚 𝐴) 2 𝑠2 𝑚 𝐵) 3 𝑠2 𝑚 𝐶) 5 𝑠2 𝑚 𝐷) 10 𝑠2
+
+[Generale] 1091. 𝐴 gear system consists of two gears with teeth numbers 48 and 16. If the input gear rotates at 60 rpm, what is the output gear's rotational speed? 𝐴) 180 rpm 𝐵) 120 rpm 𝐶) 60 rpm 𝐷) 30 rpm
+
+[Generale] 1092. 𝐴 machine has an initial cost of $50,000 and generates annual savings of $10,000. The machine’s life is 10 years. If the interest rate is 8%, what is the net present value (𝑁𝑃𝑉)of the machine? 𝐴) $15,000 𝐵) $20,000 𝐶) $25,000 𝐷) $30,000
+
+[Generale] 1093. 𝐴 𝑠𝑒𝑐𝑜𝑛𝑑−𝑜𝑟𝑑𝑒𝑟 system has 𝑎 damping ratio of 0.5 and 𝑎 natural frequency of 8 𝑟𝑎𝑑 What is the damped frequency? 𝑠. 𝑟𝑎𝑑 𝐴) 6.93 𝑠 𝑟𝑎𝑑 𝐵) 7.07 𝑠 𝑟𝑎𝑑 𝐶) 7.21 𝑠 𝑟𝑎𝑑 𝐷) 8.00 𝑠
+
+[Generale] 1094. 𝐴 truss has 𝑎 joint where three members meet. Two members are under compression of 500 𝑁 and 700 N, respectively, at angles of 30° and 45° to the horizontal. What is the horizontal reaction force at the joint? 𝐴) 1000 𝑁 𝐵) 1100 𝑁 𝐶) 1200 𝑁 𝐷) 1300 𝑁
+
+[Generale] 1095. 𝐴 𝑚𝑎𝑠𝑠−𝑠𝑝𝑟𝑖𝑛𝑔 system is under harmonic excitation with 𝑎 force amplitude of 20 𝑁 and an angular frequency of 5 𝑟𝑎𝑑 𝑁𝑠 𝑠. If the system has 𝑎 damping coefficient of 2 𝑚and 𝑎 mass of 4 kg, what is the amplitude of oscillation? 𝐴) 1.5 𝑚 𝐵) 2.0 𝑚 𝐶) 2.5 𝑚 𝐷) 3.0 𝑚
+
+[Generale] 1096. 𝐴 Carnot engine operates between two thermal reservoirs at 1000 𝐾 and 300 K. If the engine produces 500 kJ of work, how much heat is rejected to the 𝑙𝑜𝑤− 𝑡𝑒𝑚𝑝𝑒𝑟𝑎𝑡𝑢𝑟𝑒 reservoir? 𝐴) 1500 kJ 𝐵) 1000 kJ 𝐶) 750 kJ 𝐷) 500 kJ
+
+[Generale] 1097. Oil (𝑑𝑒𝑛𝑠𝑖𝑡𝑦 = 850 𝑘𝑔/𝑚³) flows through 𝑎 horizontal pipe. The pressure drop over 𝑎 5 𝑚 length of the pipe is 2000 Pa, and the diameter of the pipe is 0.1 m. What is the flow rate in the pipe assuming laminar flow? 𝑚3 𝐴) 0.005 𝑠 𝑚3 𝐵) 0.003 𝑠 𝑚3 𝐶) 0.002 𝑠 𝑚3 𝐷) 0.001 𝑠
+
+[Generale] 1098. 𝐴 steel column with 𝑎 length of 3 𝑚 and 𝑓𝑖𝑥𝑒𝑑−𝑓𝑖𝑥𝑒𝑑 boundary conditions has 𝑎 critical buckling load of 150 kN. What is the equivalent Euler's buckling load for the same column if it had 𝑝𝑖𝑛𝑛𝑒𝑑−𝑝𝑖𝑛𝑛𝑒𝑑 boundary conditions? 𝐴) 150 kN 𝐵) 75 kN 𝐶) 300 kN 𝐷) 37.5 kN
+
+[Generale] 1099. 𝐴 wall has three layers of different materials, with thermal conductivities of 0.5 𝑊 𝑚· 𝐾, 0.25 𝑊 𝑊 𝑚· 𝐾, and 1 𝑚· 𝐾 respectively. If the layers have the same thickness, which layer has the highest thermal resistance? 𝐴) Layer 1 𝐵) Layer 2 𝐶) Layer 3 𝐷) All layers have the same resistance
+
+[Generale] 1100. 𝐴 flywheel with 𝑎 moment of inertia of 5 kg·m² rotates at 600 rpm. If 𝑎 braking torque of 10 Nm is applied, how long will it take to bring the flywheel to rest? 𝐴) 15 𝑠 𝐵) 18.85 𝑠 𝐶) 12.57 𝑠 𝐷) 10 𝑠
+
+[Generale] 1101. 𝐴 cantilever beam made of aluminum has 𝑎 rectangular 𝑐𝑟𝑜𝑠𝑠−𝑠𝑒𝑐𝑡𝑖𝑜𝑛 of 50 mm 𝑥 100 mm and 𝑎 length of 2 m. If 𝑎 point load of 500 𝑁 is applied at the free end, what is the maximum bending stress in the beam? 𝐴) 30 MPa 𝐵) 15 MPa 𝐶) 60 MPa 𝐷) 45 MPa
+
+[Generale] 1102. 𝐴 𝑝𝑟𝑜𝑝𝑜𝑟𝑡𝑖𝑜𝑛𝑎𝑙−𝑑𝑒𝑟𝑖𝑣𝑎𝑡𝑖𝑣𝑒 (𝑃𝐷)controller is used in 𝑎 system with 𝑎 transfer function 𝐺(𝑠) = 1/(𝑠² + 2s + 1). If the proportional gain is 4 and the derivative gain is 1, what is the new system type? 𝐴) Type 0 𝐵) Type 1 𝐶) Type 2 𝐷) Type 3
+
+[Generale] 1103. 𝐴 helical compression spring is made of steel with 𝑎 shear modulus of 80 GPa. The spring has 10 active coils, 𝑎 mean coil diameter of 40 mm, and 𝑎 wire diameter of 5 mm. What is the spring constant (𝑠𝑡𝑖𝑓𝑓𝑛𝑒𝑠𝑠)? 𝑁 𝐴) 500 𝑚 𝑁 𝐵) 1000 𝑚 𝑁 𝐶) 2000 𝑚 𝑁 𝐷) 4000 𝑚
+
+[Generale] 1104. 𝐴 project requires an initial investment of $50,000 and has annual cash inflows of $15,000 for 5 years. What is the Net Present Value (𝑁𝑃𝑉)of the project at 𝑎 discount rate of 10%? 𝐴) $5,000 𝐵) $7,500 𝐶) $10,000 𝐷) $12,000
+
+[Generale] 1105. 𝐴 𝑚𝑎𝑠𝑠−𝑠𝑝𝑟𝑖𝑛𝑔−𝑑𝑎𝑚𝑝𝑒𝑟 system has 𝑎 damping ratio of 0.1 and 𝑎 natural frequency of 20 𝑟𝑎𝑑 What is the damped natural frequency of the system? 𝑠. 𝑟𝑎𝑑 𝐴) 18 𝑠 𝑟𝑎𝑑 𝐵) 19.8 𝑠 𝑟𝑎𝑑 𝐶) 20 𝑠 𝑟𝑎𝑑 𝐷) 21 𝑠
+
+[Generale] 1106. 𝐴 gas turbine operates with an inlet temperature of 1500 𝐾 and an outlet temperature of 800 K. What is the isentropic efficiency of the turbine if the ideal outlet temperature is 700 K? 𝐴) 85% 𝐵) 80% 𝐶) 75% 𝐷) 70%
+
+[Generale] 1107. 𝐴 cylindrical pressure vessel with an internal diameter of 1 𝑚 and wall thickness of 10 mm is subjected to an internal pressure of 2 MPa. What is the hoop stress in the wall of the vessel? 𝐴) 50 MPa 𝐵) 100 MPa 𝐶) 200 MPa 𝐷) 20 MPa
+
+[Generale] 1108. 𝐴 Venturi meter is used to measure the flow rate of water. The diameter of the throat is half of the diameter of the pipe. If the pressure difference between the pipe and the throat is 10 kPa, what is the velocity at the throat? 𝑚 𝐴) 3.16 𝑠 𝑚 𝐵) 4.47 𝑠 𝑚 𝐶) 6.32 𝑠 𝑚 𝐷) 8.94 𝑠
+
+[Generale] 1109. 𝐴 block weighing 100 𝑁 is placed on an inclined plane with an angle of 30°. If the coefficient of static friction is 0.3, determine whether the block will slide. 𝐴) Yes 𝐵) No 𝐶) Depends on the applied force 𝐷) Cannot be determined
+
+[Generale] 1110. 𝐴 5 kg block slides down 𝑎 3 𝑚 high frictionless ramp. What is the velocity of the block at the bottom of the ramp? 𝑚 𝐴) 5 𝑠 𝑚 𝐵) 7.67 𝑠 𝑚 𝐶) 9.8 𝑠 𝑚 𝐷) 11 𝑠 −−− CORRECT ANSWERS AND EXPLANATIONS −−−
+
+[Generale] 1001. Correct Answer: 𝐵 Explanation: The first law of thermodynamics states that ΔU = 𝑄 − W. Here, 𝑄 = 150 kJ and 𝑊 = 50 kJ, so ΔU = 150 − 50 = 100 kJ.
+
+[Generale] 1002. Correct Answer: 𝐵 Explanation: The power input is given by 𝑃 = ρgQH + QΔP. Using 𝜌 = 1000 𝑘𝑔 , 𝑔 = 9.81 𝑚3 𝑚 𝑚3 , 𝑄 = 0.03 ΔP = 400 kPa (400,000 𝑃𝑎), and 𝐻 = 10 m, 𝑃 = (1000 × 9.81 × 10 ×𝑠2 𝑠, 0.03) + (0.03 × 400,000) = 15 kW.
+
+[Generale] 1003. Correct Answer: 𝐵 Explanation: The relation between torque and shear stress is 𝑇 = ( 𝜋 16) 𝜏𝑑3. Rearranging for 1 d, 𝑑 = [ 16𝑇 𝜋𝜏] 3. Substituting 𝑇 = 500 Nm, 𝜏 = 100 MPa, 𝑑 = 25 mm.
+
+[Generale] 1004. Correct Answer: 𝐴 Explanation: The heat transfer rate per unit area is given by 𝑞 = 𝑘( 𝛥𝑇 𝐿). Substituting 𝑘 = 0.8 𝑊 0.8×50 𝑊 𝑚· 𝐾, ΔT = 50°C, and 𝐿 = 0.1 m, 𝑞 = 0.1 = 400 𝑚2 .
+
+[Generale] 1005. Correct Answer: 𝐴 Explanation: The net force is 𝐹 = mgsinθ − μmgcosθ. Dividing by mass, acceleration 𝑎 = 𝑚 𝑚 𝑔(𝑠𝑖𝑛𝜃 − 𝜇𝑐𝑜𝑠𝜃). tuting 𝑔 = 9.81 , 𝜃 = 30°, 𝜇 = 0.2, 𝑎 = 3.0 . 𝑠2 𝑠2
+
+[Generale] 1006. Correct Answer: 𝐶 Explanation: The factor of safety is given by FS = σ_ultimate σ_working. Substituting σ_ultimate = 800 MPa and σ_working = 200 MPa, FS = 800 200 = 4.
+
+[Generale] 1007. Correct Answer: 𝐵 Explanation: Stress = Young's modulus × Strain. Rearranging, Strain = Stress Young's modulus. Substituting Stress = 100 MPa and Young's modulus = 200 GPa, Strain = 0.0005.
+
+[Generale] 1008. Correct Answer: 𝐵 Explanation: For an isothermal process, PV = constant. If the volume doubles, the pressure must decrease by half to maintain the constant relationship.
+
+[Generale] 1009. Correct Answer: 𝐴 Explanation: Reynolds number is given by Re = 𝜌𝑉𝐷 𝑘𝑔 𝜇. Substituting 𝜌 = 1000 𝑚3 , 𝑉 = 2 𝑚 𝑠, 𝐷 = 0.05 m, and 𝜇 = 0.001 Pa·s, Re = 50,000.
+
+[Generale] 1010. Correct Answer: 𝐶 Explanation: The heat loss by convection is 𝑄 = hAΔT. Rearranging for h, ℎ = 𝑄 (𝐴𝛥𝑇). Using 𝐴 = πDL = π×0.02×1 = 0.0628 m² and ΔT = 100 − 25 = 75°C, ℎ = 30 𝑊 (0.0628 × 75)≈ 20 · 𝐾. 𝑚2
+
+[Generale] 1011. Correct Answer: 𝐵 Explanation: The Carnot efficiency is given by 𝜂 = 1 − (𝑇𝑙𝑜𝑤𝑇ℎ𝑖𝑔ℎ). Substituting the values, 𝜂 = 1 − (300 600) = 0.5. The work output is 250 kJ, so the heat input Q_high = Work Efficiency = 250 0.5 = 375 kJ.
+
+[Generale] 1012. Correct Answer: 𝐴 Explanation: Using Bernoulli's equation, P1 + 0.5ρv1² = P2 + 0.5ρv2². Since v1 ≈ 0, P2 = P1 − 0.5ρv2². Substituting values, P2 = 250,000 − 0.5 × 1000 × 20² = 150,000 Pa = 150 kPa.
+
+[Generale] 1013. Correct Answer: 𝐶 Explanation: The maximum bending stress is given by 𝜎 = 𝑀∗ 𝑐 ℎ 𝐼. Here, 𝑐 = 2 = 0.1 m, and 𝑏∗ℎ3 0.1∗0.23 𝐼 = = = 6.67 × 10⁻⁶ m⁴. Substituting, 𝜎 = (500 ∗0.1)/(6.67 × 10⁻⁶) = 25 MPa. 12 12
+
+[Generale] 1014. Correct Answer: 𝐵 Explanation: The heat transfer rate through the fin is 𝑄 = 𝑘∗𝐴∗ 𝑇𝑏𝑎𝑠𝑒− 𝑇𝑎𝑖𝑟 . Substituting, 𝐿 (100 −𝑄 = 200 × 0.01 × 25)0.5 = 150 W.
+
+[Generale] 1015. Correct Answer: 𝐵 Explanation: The kinetic energy of 𝑎 rotating object is given by KE = 0.5 ∗𝐼∗ 𝜔2. Substituting, KE = 0.5 × 0.5 × 100² = 5000 J.
+
+[Generale] 1016. Correct Answer: 𝐶 Explanation: Combined stress is calculated using σ_combined = 𝑠𝑞𝑟𝑡(𝜎𝑎𝑥𝑖𝑎𝑙2 + 2 𝐹 (0.05)2 𝜏𝑠ℎ𝑒𝑎𝑟 ). Axial stress, σ_axial = 𝐴= 10,000 (𝜋∗ 4 ) = 5.09 MPa. Shear stress, τ_shear = 𝑟 0.025 𝑇∗ 𝐽= 50 ∗ 𝜋∗(0.05)4 = 13.1 MPa. Substituting, σ_combined = 𝑠𝑞𝑟𝑡(5.092 + 13.12)≈ 14.3 32 MPa.
+
+[Generale] 1017. Correct Answer: 𝐷 Explanation: For 𝑎 rigid tank, the volume remains constant. Using the ideal gas law, the pressure is proportional to the temperature. So, P2 = P1 ∗ (𝑇2 400 𝑇1) = 200 ∗ (300) = 533 kPa.
+
+[Generale] 1018. Correct Answer: 𝐵 Explanation: Calculate Reynolds number: Re = (𝜌 ∗ 𝑣 ∗ 𝐷) / 𝜇 = (900 ∗ 3 ∗ 0.5) / 0.1 = 13,500. Since Re > 4000, the flow is turbulent.
+
+[Generale] 1019. Correct Answer: 𝐴 (𝐹 ∗ 𝐿3) Explanation: Deflection at the free end is given by 𝛿 = (3 ∗ 𝐸 ∗ 𝐼). Substituting the values, 𝛿 = (500 ∗ (2³)) / (3 ∗ 200 ∗ 10⁹ ∗ 0.0001) = 0.005 𝑚 = 5 mm.
+
+[Generale] 1020. Correct Answer: 𝐶 𝑡1 𝑡2 0.1 0.1 𝐾 Explanation: Using thermal resistance: R_total = (𝑘1) + ( 𝑘2) = ( 1 ) + ( 0.5) = 0.3 𝑊. Heat transfer rate 𝑞 = ΔT R_total = 50 0.3 = 166.67 𝑊 . 𝑚2
+
+[Generale] 1021. Correct Answer: 𝐵 Explanation: The distance traveled under uniform acceleration is given by 𝑠 = 0.5 ∗ 𝑎 ∗ t². First, find acceleration: 𝑎 = 𝑣 20 𝑚 𝑡= 5 = 4 𝑠2. Then, 𝑠 = 0.5 ∗ 4 ∗ (52) = 100 m.
+
+[Generale] 1022. Correct Answer: 𝐵 Explanation: Natural frequency is given by 𝑓 = (1 2𝜋) ∗ √𝑘 Substituting values: 𝑓 = 𝑚. 400 (1 2𝜋) ∗ √ = 10 Hz. 2
+
+[Generale] 1023. Correct Answer: 𝐴 Explanation: Torque is given by 𝑇 = 𝑃 ω. First, calculate angular velocity 𝜔 = (2𝜋 ∗ 𝑟𝑝𝑚)60 (2𝜋 ∗ 𝑟𝑎𝑑= 300)60 = 31.42 Then, 𝑇 = 10,000 31.42 = 318.3 Nm. 𝑠.
+
+[Generale] 1024. Correct Answer: 𝐴 Explanation: Peak time is given by T_p = 𝜋 (𝜔𝑛√1 −𝜁2). Substituting values: T_p = 𝜋 (5 √1 −0.72) = 0.628 s.
+
+[Generale] 1025. Correct Answer: 𝐶 Explanation: Work output is calculated using the isentropic efficiency formula: 𝜂 = W_actual W_isentropic. Assuming W_isentropic = 900 𝑘𝐽 𝑘𝑔, W_actual = 𝜂 ∗ W_isentropic = 0.85 ∗ 900 = 765 𝑘𝐽 𝑘𝑔.
+
+[Generale] 1026. Correct Answer: 𝐶 Explanation: Force is calculated using 𝐹 = 𝜎 ∗ A. Substituting values: 𝐹 = 100 ∗ 10⁶ ∗ 0.005 = 5000 N.
+
+[Generale] 1027. Correct Answer: 𝐶 Explanation: Pressure is given by 𝑃 = 𝐹 A. Force due to weight: 𝐹 = 𝑚 ∗ 𝑔 = 1500 ∗ 2 9.81 = 14,715 N. Area: 𝐴 = 𝜋 ∗ (0.2) = 0.0314 m². Pressure: 𝑃 = 14,715 0.0314 = 2 94,000 Pa = 94 kPa.
+
+[Generale] 1028. Correct Answer: 𝐶 Explanation: For an isobaric process, 𝑄 = 𝑚 ∗ cp ∗ ΔT. Using cp = 1.005 𝑘𝐽 𝑘𝑔· 𝐾 and ideal gas relations to calculate ΔT, the heat transfer is computed as 72.5 kJ.
+
+[Generale] 1029. Correct Answer: 𝐵 Explanation: The 𝐷𝑎𝑟𝑐𝑦−𝑊𝑒𝑖𝑠𝑏𝑎𝑐ℎ equation is used to calculate head loss: hf = (𝑓 ∗ 𝐿 ∗ 𝑣2) (2 ∗ 𝑔 ∗ 𝐷). Substituting values, the head loss is 0.8 m.
+
+[Generale] 1030. Correct Answer: 𝐴 Explanation: Using fin efficiency and the heat transfer equation 𝑞 = 𝜂 ∗ 𝐴 ∗ ℎ ∗ ΔT, the rate of heat transfer is calculated as 18 W.
+
+[Generale] 1031. Correct Answer: 𝐶 Explanation: Using Hooke’s law, strain = stress E, and deformation = strain × original length, the deformation is found to be 0.200 mm.
+
+[Generale] 1032. Correct Answer: 𝐵 Explanation: The net force is 𝐹 − friction force. Friction force = 𝜇 ∗ 𝑚 ∗ g. Dividing the net force by mass gives acceleration, which is 2.5 𝑚 . 𝑠2
+
+[Generale] 1033. Correct Answer: 𝐴 Explanation: Using 𝑃 = 𝑇 ∗ 𝜔 and 𝑇 = 𝑟 ∗ F, the minimum radius is calculated as 0.095 m.
+
+[Generale] 1034. Correct Answer: 𝐵 Explanation: The polytropic work formula 𝑊 = (𝑃2 ∗ V2 − P1 ∗ 𝑉1) / (1 − 𝑛) is used, yielding −40 kJ.
+
+[Generale] 1035. Correct Answer: 𝐴 Explanation: Using Bernoulli's equation, velocity = √(2 ∗ ΔP / 𝜌), the velocity is calculated as 18.26 𝑚 𝑠.
+
+[Generale] 1036. Correct Answer: 𝐶 Explanation: The maximum bending moment for 𝑎 uniformly loaded beam is Mmax = wL² 8, resulting in 20.0 kNm.
+
+[Generale] 1037. Correct Answer: 𝐵 Explanation: Using the enthalpy difference from steam tables, the work is calculated as 1,200 𝑘𝐽 𝑘𝑔.
+
+[Generale] 1038. Correct Answer: 𝐶 Explanation: Using the 𝑆𝑡𝑒𝑓𝑎𝑛−𝐵𝑜𝑙𝑡𝑧𝑚𝑎𝑛𝑛 law, 𝑞 = 𝜀𝜎𝐴(𝑇1⁴ − 𝑇2⁴), the heat transfer is calculated as 2.7 kW.
+
+[Generale] 1039. Correct Answer: 𝐶 Explanation: Using the 𝑠𝑚𝑎𝑙𝑙−𝑎𝑛𝑔𝑙𝑒 approximation for the period of 𝑎 pendulum, 𝑇 = 𝐿 2𝜋√𝑔, the period is calculated as 2.83 s.
+
+[Generale] 1040. Correct Answer: 𝐵 Explanation: Using 𝑇 = 𝜔and𝑃 the torsion equation 𝑇𝑐 𝜏 = 𝐽, the required shaft diameter is calculated as 0.045 m.
+
+[Generale] 1041. Correct Answer: 𝐴 Explanation: Using the formula for hydraulic power and accounting for efficiency, input power = (𝑄 ∗ 𝛥𝑃)η, yielding 18.75 kW.
+
+[Generale] 1042. Correct Answer: 𝐶 Explanation: Using Newton’s law of cooling, 𝑞 = ℎ𝐴(𝑇𝑠 − 𝑇∞), the surface temperature is calculated as 65°C.
+
+[Generale] 1043. Correct Answer: 𝐵 Explanation: Using 𝐹 = ma and 𝑎 = 𝛥𝑣 𝛥𝑡, the force required is calculated as 3.0 kN.
+
+[Generale] 1044. Correct Answer: 𝐷 𝜋𝑑2 Explanation: Stress = Force Area. Using 𝐴 = , the stress is calculated as 40 MPa. 4
+
+[Generale] 1045. Correct Answer: 𝐵 Explanation: Using 𝑊 = ∫𝑃𝑑𝑉 and approximating the curve as polytropic, the work done is calculated as 60 kJ.
+
+[Generale] 1046. Correct Answer: 𝐴 Explanation: Factor of Safety = Ultimate Strength Working Stress. Using 𝜎 = 𝐹 𝐴, the factor of safety is calculated as 4.0.
+
+[Generale] 1047. Correct Answer: 𝐵 Explanation: Using 𝑈 = 1 (𝑅1 + 𝑅2), where 𝑅 = 𝐿 𝑘, the overall heat transfer coefficient is calculated as 20 𝑊 · 𝐾. 𝑚2
+
+[Generale] 1048. Correct Answer: 𝐶 Explanation: Under constant pressure, the steam expands, and its final state can be determined using steam tables to calculate the temperature corresponding to the doubled specific volume.
+
+[Generale] 1049. Correct Answer: 𝐷 Explanation: Reynolds number is calculated as Re = 𝜌𝑉𝐷 𝜇, where 𝜌 is water density (𝑎𝑠𝑠𝑢𝑚𝑒𝑑 1000 𝑘𝑔/𝑚³), 𝑉 is velocity, 𝐷 is diameter, and 𝜇 is dynamic viscosity.
+
+[Generale] 1050. Correct Answer: 𝐶 Explanation: Heat flux is calculated using Fourier's law: 𝑞 = 𝑘(𝛥𝑇 𝛥𝑥). Substituting the given values yields 𝑞 = 2 × 100−20 = 320 𝑊 . 0.05 𝑚2
+
+[Generale] 1051. Correct Answer: 𝐴 Explanation: The maximum bending stress is calculated using 𝜎 = 𝑀∗ 𝑐 𝐼. Here, 𝐼 = 𝑏∗ℎ3 ℎ , 𝑐 = where 𝑏 = 0.1 m, ℎ = 0.2 m. 12 2,
+
+[Generale] 1052. Correct Answer: 𝐶 Explanation: Force is calculated using Newton’s second law: 𝐹 = ma. First, calculate acceleration: 𝑎 = 𝛥𝑣 30 𝑚 𝛥𝑡= 10 = 3 𝑠2. Then, 𝐹 = 1500 × 3 = 4500 N.
+
+[Generale] 1053. Correct Answer: 𝐵 Explanation: Power is related to torque by 𝑃 = Tω, and torque is 𝑇 = 𝐹∗𝑟. Solve for r: 𝑟 = (2𝜋 ∗𝑃 (𝐹 ∗ 𝜔), where 𝜔 = 𝑟𝑝𝑚)60.
+
+[Generale] 1054. Correct Answer: 𝐴 Explanation: The work input is calculated using COP = 𝑄 𝑊. Rearrange to find 𝑊 = 𝑄 5000 𝐶𝑂𝑃. Substituting values: 𝑊 = 4 = 1250 W.
+
+[Generale] 1055. Correct Answer: 𝐵 Explanation: The thermal efficiency of an ideal Brayton cycle is 𝜂 = 1 − ( 𝑇𝑙𝑜𝑤 𝑇ℎ𝑖𝑔ℎ). Substituting values: 𝜂 = 1 − ( 300 1200) = 0.75 or 75%.
+
+[Generale] 1056. Correct Answer: 𝐵 Explanation: Power required is 𝑃 = 𝜌∗𝑔∗𝑄∗𝐻 . Substituting: 𝑃 = (1000 × 9.81 × 0.02 × 𝜂 20)/0.8 = 490.5 W, rounded to 500 W.
+
+[Generale] 1057. Correct Answer: 𝐶 𝐹 𝑑2 Explanation: Normal stress is calculated using 𝜎 = 𝐴, where 𝐴 = 𝜋∗( 4 ). Substituting values: 𝜎 = 30,000/(𝜋 × (0.03)²/4).
+
+[Generale] 1058. Correct Answer: 𝐴 Explanation: Using the equation for energy balance, 𝑄 = m·Cp·ΔT for both fluids, the mass flow rate of the cold fluid can be determined by equating heat gained and lost.
+
+[Generale] 1059. Correct Answer: 𝐴 ℎ = 4 𝑚 to calculate the exit Explanation: Torricelli's law is applied with 𝑔 = 9.81 𝑠2and𝑚 velocity as 𝑣 = √2𝑔ℎ.
+
+[Generale] 1060. Correct Answer: 𝐵 Explanation: The factor of safety is calculated as the yield stress divided by the actual stress, which can be determined using 𝜎 = 𝐹 𝐴.
+
+[Generale] 1061. Correct Answer: 𝐴 Explanation: The heat flux is calculated using Fourier’s law, 𝑞 = 𝑘· 𝛥𝑇 𝐿, where ΔT is the temperature difference and 𝐿 is the thickness.
+
+[Generale] 1062. Correct Answer: 𝐴 Explanation: Using Newton’s second law, 𝐹 = m·a, the deceleration is calculated as 𝑣 𝑡, and the force is determined.
+
+[Generale] 1063. Correct Answer: 𝐵 Explanation: The tangential force is calculated using the torque equation 𝑇 = F·r, where 𝑟 is the gear radius.
+
+[Generale] 1064. Correct Answer: 𝐴 Explanation: Using the continuity equation 𝑄 = A·v, the velocity is determined by solving for 𝑄 𝑣 = 𝐴.
+
+[Generale] 1065. Correct Answer: 𝐵 Explanation: The work input is calculated using COP = 𝑄 𝑄 𝑊, rearranged to 𝑊 = 𝐶𝑂𝑃.
+
+[Generale] 1066. Correct Answer: 𝐶 Explanation: Maximum stress is calculated using the bending equation 𝜎 = 𝑀· 𝑐 𝐼, where 𝐼 is the moment of inertia.
+
+[Generale] 1067. Correct Answer: 𝐵 Explanation: Using the power equation and the torsion formula 𝑇 = 𝜋· 𝑑3 · 𝜏 16, the diameter is calculated.
+
+[Generale] 1068. Correct Answer: 𝐴 Explanation: The first law of thermodynamics states: ΔU = 𝑄 − W. Here, 𝑄 = 500 kJ and 𝑊 = 200 kJ. Thus, ΔU = 500 − 200 = 300 kJ.
+
+[Generale] 1069. Correct Answer: 𝐵 Explanation: According to Bernoulli's principle, the pressure drop can be calculated as ΔP = 1 𝑘𝑔 𝑚 𝑚 1 (2) 𝜌(𝑣22 − 𝑣12). Here, 𝜌 = 1000 𝑚3, v1 = 2 𝑠, v2 = 6 𝑠. ΔP = (2) (1000)(62 − 22) = 16,000 Pa = 16 kPa.
+
+[Generale] 1070. Correct Answer: 𝐷 Explanation: The elongation can be calculated using the formula 𝛿 = 𝑃𝐿 𝐴𝐸. Here, 𝑃 = 100 kN = 100,000 N, 𝐿 = 2 m, 𝐴 = 0.01 m², 𝐸 = 200 GPa = 200,000 MPa = 200 × 10⁹ 𝑁/𝑚². 𝛿 = (100,000 × 2)/(0.01 × 200 × 10⁹) = 0.002 m.
+
+[Generale] 1071. Correct Answer: 𝐵 Explanation: The heat flux is given by 𝑞 = 𝑘(𝛥𝑇 𝑊 𝐿). Here, 𝑘 = 50 𝑚· 𝐾, ΔT = 20°C, 𝐿 = 0.02 m. 𝑞 = (50 × 20)/0.02 = 25,000 𝑊 . 𝑚2
+
+[Generale] 1072. Correct Answer: 𝐴 Explanation: Using the 𝑖𝑚𝑝𝑢𝑙𝑠𝑒−𝑚𝑜𝑚𝑒𝑛𝑡𝑢𝑚 principle, FΔt = 𝑚(𝑣𝑓 − 𝑣𝑖). Here, 𝐹 = 20 N, Δt = 5 s, 𝑚 = 10 kg, vi = 5 𝑚 𝑚 𝑠. Solving for vf: 20 × 5 = 10(𝑣𝑓 − 5). vf = 15 𝑠.
+
+[Generale] 1073. Correct Answer: 𝐶 Explanation: The equivalent bending moment is given by Meq = √𝑀𝑏2 + 𝑀𝑡2, where Mb is the bending moment and Mt is the torque. Meq = √5002 + 3002 = √250000 + 90000 = √340000 = 700 Nm.
+
+[Generale] 1074. Correct Answer: 𝐵 Explanation: The payback period is the time it takes for the investment to recover its initial cost. Payback period = Initial Investment Annual Return. Payback period = $10,000 $2,000 = 5 years.
+
+[Generale] 1075. Correct Answer: 𝐵 Explanation: Stress exceeding the yield strength causes plastic deformation. Since 300 MPa > 250 MPa (𝑦𝑖𝑒𝑙𝑑 𝑠𝑡𝑟𝑒𝑛𝑔𝑡ℎ)but < 400 MPa (𝑢𝑙𝑡𝑖𝑚𝑎𝑡𝑒 𝑠𝑡𝑟𝑒𝑛𝑔𝑡ℎ), the material will experience plastic deformation.
+
+[Generale] 1076. Correct Answer: 𝐴 Explanation: The change in internal energy is equal to the work done minus the heat rejected: 100 kJ − (−50 kJ heat 𝑙𝑜𝑠𝑠) = 150 kJ.
+
+[Generale] 1077. Correct Answer: 𝐴 Explanation: Force exerted is equal to the change in momentum per unit time. Since the plate is flat and perpendicular, the velocity changes from 20 𝑚𝑠to 0 𝑚𝑠. Force 𝑘𝑔 𝑚 = 1 𝑠× 20 𝑠= 20 N.
+
+[Generale] 1078. Correct Answer: 𝐶 Explanation: Strain is given by the ratio of elongation to original length. Assuming the original length is 100 mm, strain = 0.5 mm 100 mm = 0.005.
+
+[Generale] 1079. Correct Answer: 𝐶 Explanation: Using Fourier’s law for cylindrical pipes, 𝑞 = 2𝜋𝑘(𝑇ℎ𝑜𝑡− 𝑇𝑎𝑚𝑏𝑖𝑒𝑛𝑡) . Substituting ln(𝑟𝑜𝑢𝑡𝑒𝑟 ) 𝑟𝑖𝑛𝑛𝑒𝑟 known values gives heat loss of approximately 60 𝑊 𝑚.
+
+[Generale] 1080. Correct Answer: 𝐴 Explanation: Using the equation: distance = (𝑖𝑛𝑖𝑡𝑖𝑎𝑙 velocity + final 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦)/2 × time = 0 + 20× 10 = 100 m. 2
+
+[Generale] 1081. Correct Answer: 𝐴 Explanation: Torque = Power Angular Velocity. Angular velocity = (2𝜋 × 𝑟𝑝𝑚)/
+
+[Generale] 1060. Substituting values gives Torque = 318 Nm.
+
+[Generale] 1082. Correct Answer: 𝐴 Explanation: Payback Period = Initial Investment Net Annual Savings = $20,000 ($12,000 − $5,000) = 4.0 years.
+
+[Generale] 1083. Correct Answer: 𝐵 Explanation: Natural frequency is inversely proportional to the square root of the mass. Doubling the mass will reduce the frequency by 1 which is approximately 7.1 𝑟𝑎𝑑 √2, 𝑠.
+
+[Generale] 1084. Correct Answer: 𝐵 Explanation: The time to reach 90% of the final value is calculated using 1 −exp (− 𝑡 𝜏). For 𝜏 = 2 seconds, solving gives 𝑡 ≈ 4.6 seconds.
+
+[Generale] 1085. Correct Answer: 𝐵 Explanation: Maximum bending moment for 𝑎 UDL on 𝑎 simply supported beam is 𝑤𝑙²/8 = (10 𝑘𝑁/𝑚 × 5²)/8 = 62.5 kNm.
+
+[Generale] 1086. Correct Answer: 𝐶 Explanation: The maximum efficiency of 𝑎 heat engine is given by the Carnot efficiency: 𝜂 = 1 − (𝑇𝑙𝑜𝑤𝑇ℎ𝑖𝑔ℎ). The work output is related to the heat input by 𝑊 = 𝜂 ∗ Q_in. Rearranging, Q_in = 𝑊 η. Using 𝜂 = 1 − (300 600) = 0.5, Q_in = 200 0.5 = 600 kJ.
+
+[Generale] 1087. Correct Answer: 𝐵 Explanation: Using Bernoulli's equation, P1 + 0.5ρv1² + ρgh = P2 + 0.5ρv2² + ρgh. Since the pipe is vertical, we include the gravitational term, but it cancels out due to the same 2 elevation. Calculate v2 using A1v1 = A2v2: v2 = 𝑣1 ∗( 𝐷1 𝐷2) . Substituting into Bernoulli's equation, P1 − P2 = 0.5𝜌(𝑣22 − 𝑣12).
+
+[Generale] 1088. Correct Answer: 𝐴 Explanation: The maximum bending stress is calculated using 𝜎 = (𝑀 ∗ 𝑐)I, where 𝑐 is the distance from the neutral axis and 𝐼 is the moment of inertia. For 𝑎 rectangular 𝑐𝑟𝑜𝑠𝑠− 𝑏∗ℎ3 𝑠𝑒𝑐𝑡𝑖𝑜𝑛, 𝐼 = . Substituting values gives the stress. 12
+
+[Generale] 1089. Correct Answer: 𝐵 Explanation: Using the fin efficiency formula and Fourier's law, q_loss = √ℎ𝑃 𝑘𝐴∗ (𝑇𝑏𝑎𝑠𝑒− 𝑇𝑎𝑚𝑏𝑖𝑒𝑛𝑡). Substitute the given values and solve for the heat loss.
+
+[Generale] 1090. Correct Answer: 𝐶 Explanation: Deceleration is calculated as 𝑎 = (𝑣𝑓 − 𝑣𝑖)t. Since the final velocity (𝑣𝑓)is 0, 𝑣𝑖 30 𝑚 𝑚 𝑎 = − 𝑡= − 10 = −3 𝑠2. The magnitude of deceleration is 3 𝑠2 .
+
+[Generale] 1091. Correct Answer: 𝐴 Explanation: The gear ratio is given by 𝑁1 = 𝑇2 Substituting the teeth numbers, the gear ratio 𝑁2 𝑇1. is 48 = 3. Thus, the output speed is 60 rpm × 3 = 180 rpm. 16
+
+[Generale] 1092. Correct Answer: 𝐶 Explanation: NPV = 𝛴(𝑆𝑎𝑣𝑖𝑛𝑔𝑠 (1 + 𝑟)𝑛) − Initial Cost. Using the given interest rate and annual savings, calculate the summation for 10 years and subtract the initial cost.
+
+[Generale] 1093. Correct Answer: 𝐴 Explanation: The damped frequency is calculated as ω_d = 𝜔𝑛√1 − 𝜁2. Substituting 𝜁 = 0.5 and ω_n = 8 𝑟𝑎𝑑 𝑟𝑎𝑑 𝑠, we find ω_d = 6.93 𝑠.
+
+[Generale] 1094. Correct Answer: 𝐵 Explanation: Resolve the forces into horizontal components and sum them. Horizontal force = 500 ∗cos(30°) + 700 ∗cos(45°) = 1100 N.
+
+[Generale] 1095. Correct Answer: 𝐶 Explanation: Amplitude is calculated using 𝐴 = 𝐹 √(𝑘 − 𝑚𝜔2)2 + (𝑐𝜔)2. Substitute values for force amplitude, angular frequency, damping coefficient, and mass to solve for the amplitude.
+
+[Generale] 1096. Correct Answer: 𝐶 Explanation: The efficiency of 𝑎 Carnot engine is given by 1 − ( 𝑇𝑙𝑜𝑤 𝑇ℎ𝑖𝑔ℎ). Using this, we can find the heat supplied and rejected. The heat rejected is calculated as Q_out = Q_in − W.
+
+[Generale] 1097. Correct Answer: 𝐷 Explanation: Using the 𝐻𝑎𝑔𝑒𝑛−𝑃𝑜𝑖𝑠𝑒𝑢𝑖𝑙𝑙𝑒 equation for laminar flow, 𝑄 = (𝜋 ∗ ΔP ∗ 𝐷^4) / (128 ∗ 𝜇 ∗ 𝐿), where ΔP is the pressure drop, 𝐷 is the diameter, 𝜇 is the dynamic viscosity, and 𝐿 is the length.
+
+[Generale] 1098. Correct Answer: 𝐵 Explanation: The critical buckling load depends on the effective length factor (𝐾). For 𝑓𝑖𝑥𝑒𝑑−𝑓𝑖𝑥𝑒𝑑, 𝐾= 0.5; for 𝑝𝑖𝑛𝑛𝑒𝑑−𝑝𝑖𝑛𝑛𝑒𝑑, 𝐾= 1. Adjusting the load based on K, P_critical 𝜋2𝐸𝐼 = . (𝐾∗𝐿)2
+
+[Generale] 1099. Correct Answer: 𝐵 Explanation: Thermal resistance is inversely proportional to thermal conductivity 𝐿 (𝑅 = 𝑘𝐴). The layer with the lowest conductivity (𝐿𝑎𝑦𝑒𝑟 2)will have the highest thermal resistance.
+
+[Generale] 1100. Correct Answer: 𝐶 Explanation: Using the equation: 𝜏 = 𝐼 ∗ 𝛼 and 𝜔 = ω₀ + αt, where 𝜏 is torque, 𝐼 is moment of inertia, 𝛼 is angular acceleration, 𝜔 is angular velocity, calculate the time t.
+
+[Generale] 1101. Correct Answer: 𝐴 Explanation: Bending stress is calculated using the formula 𝜎 = 𝑀∗𝑐 𝐼, where 𝑀 is the bending moment, 𝑐 is the distance from the neutral axis, and 𝐼 is the moment of inertia.
+
+[Generale] 1102. Correct Answer: 𝐴 Explanation: The type of 𝑎 system depends on the number of integrators in the 𝑜𝑝𝑒𝑛− 𝑙𝑜𝑜𝑝 transfer function. Adding 𝑎 PD controller does not increase the system type.
+
+[Generale] 1103. Correct Answer: 𝐶 Explanation: The stiffness of 𝑎 helical spring is given by 𝑘 = (𝐺 ∗ 𝑑⁴) / (8 ∗ D³ ∗ 𝑁), where 𝐺 is the shear modulus, 𝑑 is wire diameter, 𝐷 is mean coil diameter, and 𝑁 is the number of active coils.
+
+[Generale] 1104. Correct Answer: 𝐴 Explanation: The NPV is calculated using the formula: NPV = 𝛴(𝐶𝐹𝑡(1 + 𝑟)𝑡) − C₀, where CF_t are the cash inflows, 𝑟 is the discount rate, and C₀ is the initial investment.
+
+[Generale] 1105. Correct Answer: 𝐵 Explanation: The damped natural frequency is given by ω_d = ω_n ∗ √1 − 𝜁2, where ω_n is the natural frequency and 𝜁 is the damping ratio.
+
+[Generale] 1106. Correct Answer: 𝐴 (𝑇𝑖𝑛− 𝑇𝑎𝑐𝑡𝑢𝑎𝑙𝑜𝑢𝑡) Explanation: Isentropic efficiency is 𝜂 = (𝑇𝑖𝑛− 𝑇𝑖𝑑𝑒𝑎𝑙𝑜𝑢𝑡). Substituting the values gives the efficiency.
+
+[Generale] 1107. Correct Answer: 𝐵 Explanation: Hoop stress for 𝑡ℎ𝑖𝑛−𝑤𝑎𝑙𝑙𝑒𝑑 cylinders is σ_h = (𝑃 ∗ 𝑟)t, where 𝑃 is the internal pressure, 𝑟 is the radius, and 𝑡 is the wall thickness.
+
+[Generale] 1108. Correct Answer: 𝐵 Explanation: Using the Bernoulli equation and continuity equation, solve for the velocity at the throat: v_throat = √(2 ∗ ΔP / 𝜌 ∗ (1 − (𝐴_𝑡ℎ𝑟𝑜𝑎𝑡 / 𝐴_𝑝𝑖𝑝𝑒)²)).
+
+[Generale] 1109. Correct Answer: 𝐵 Explanation: Compare the component of gravitational force parallel to the incline with the maximum static frictional force. F_friction = μ_s ∗ N, where 𝑁 is the normal force.
+
+[Generale] 1110. Correct Answer: 𝐵 Explanation: Using conservation of energy, PE_top = KE_bottom. mgh = 0.5 ∗ 𝑚 ∗ v². Solve for v.
+
+xxxxxxxxxx
+
+# NESSUNA RISPOSTA FORNITA IN QUESTO FILE

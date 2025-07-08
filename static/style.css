@@ -1,0 +1,195 @@
+/* =================================
+   IMPOSTAZIONI GLOBALI E VARIABILI
+   ================================= */
+:root {
+    --primary-color: #007bff;
+    --primary-hover: #0056b3;
+    --secondary-color: #6c757d;
+    --secondary-hover: #5a6268;
+    --correct-color: #28a745;
+    --incorrect-color: #dc3545;
+    --background-color: #f4f7f9;
+    --card-background: #ffffff;
+    --text-color: #333;
+    --border-color: #dee2e6;
+    --border-radius: 8px;
+    --box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 2rem;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* =================================
+   STILI PER CARD E LAYOUT
+   ================================= */
+.card {
+    background-color: var(--card-background);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+h1, h2 {
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 0.5rem;
+    margin-top: 0;
+}
+
+.quiz-title, .review-title {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+/* =================================
+   STILI PER IL QUIZ (quiz.html)
+   ================================= */
+.question-block {
+    background: var(--card-background);
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border-left: 5px solid var(--primary-color);
+}
+
+.question-text {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+}
+
+.option-label {
+    display: block;
+    background: #fdfdff;
+    border: 1px solid var(--border-color);
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.option-label:hover {
+    background: #e9f4ff;
+    border-color: var(--primary-color);
+}
+
+.option-label input[type="radio"] {
+    margin-right: 1rem;
+}
+
+/* =================================
+   STILI PER I RISULTATI (results.html)
+   ================================= */
+.review.correct-block {
+    border-left-color: var(--correct-color);
+}
+
+.review.incorrect-block {
+    border-left-color: var(--incorrect-color);
+}
+
+.feedback {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.correct-feedback { color: var(--correct-color); }
+.incorrect-feedback { color: var(--incorrect-color); }
+
+.no-answer {
+    color: var(--secondary-color);
+    font-style: italic;
+}
+
+.topic-badge {
+    background-color: #e9ecef;
+    color: var(--secondary-color);
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-weight: normal;
+}
+
+.explanation {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-top: 1px dashed var(--border-color);
+}
+
+.explanation p {
+    margin: 0;
+}
+
+/* =================================
+   STILI PER ELEMENTI COMUNI (Bottoni, Link)
+   ================================= */
+.button-submit, .button-link {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    text-align: center;
+}
+
+.button-submit:hover, .button-link:hover {
+    background-color: var(--primary-hover);
+}
+
+.button-link.secondary {
+    background-color: var(--secondary-color);
+}
+.button-link.secondary:hover {
+    background-color: var(--secondary-hover);
+}
+
+.actions-footer {
+    text-align: center;
+    margin-top: 2rem;
+}
+.actions-footer .button-link {
+    margin: 0 0.5rem;
+}
+
+.exam-list {
+    list-style: none;
+    padding: 0;
+}
+.exam-list li a {
+    display: block;
+    padding: 0.75rem;
+    background: #f8f9fa;
+    border-radius: 5px;
+    text-decoration: none;
+    color: var(--primary-color);
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    transition: all 0.2s;
+}
+.exam-list li a:hover {
+    background: #e9f4ff;
+    transform: translateX(5px);
+}
