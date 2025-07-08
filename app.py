@@ -158,31 +158,14 @@ def load_all_questions_into_bank():
         # Livello 2 di indentazione (8 spazi)
         # Ciclo interno: uno per ogni file associato a QUESTO esame
         # (indentato correttamente dentro al primo ciclo)
-        # NUOVA VERSIONE CON DEBUG
-# (dentro load_all_questions_into_bank)
         for filename in config['filenames']:
-            print(f"--- [DEBUG RENDER] Analizzo l'esame '{exam_key}', file '{filename}' ---")
-
-            # Tentativo 1: nella cartella 'quizzes'
-            path_in_quizzes = os.path.join(os.path.dirname(__file__), 'quizzes', filename)
-            print(f"[DEBUG RENDER] Tento di trovare il file qui: {path_in_quizzes}")
-            if os.path.exists(path_in_quizzes):
-                print(f"[DEBUG RENDER] SUCCESSO: File trovato in 'quizzes'.")
-                filepath = path_in_quizzes
-            else:
-                # Tentativo 2: nella cartella principale (root)
-                print(f"[DEBUG RENDER] FALLITO: File non trovato. Provo nella cartella principale.")
-                path_in_root = os.path.join(os.path.dirname(__file__), filename)
-                print(f"[DEBUG RENDER] Tento di trovare il file qui: {path_in_root}")
-                if os.path.exists(path_in_root):
-                    print(f"[DEBUG RENDER] SUCCESSO: File trovato nella root.")
-                    filepath = path_in_root
-                else:
-                    print(f"[DEBUG RENDER] FALLITO: File non trovato neanche nella root. Salto questo file.")
+            filepath = os.path.join(os.path.dirname(__file__), filename)
+            if not os.path.exists(filepath):
+                filepath = os.path.join(os.path.dirname(__file__), 'quizzes', filename)
+                if not os.path.exists(filepath):
                     print(f"  -> ATTENZIONE: File non trovato '{filename}' per l'esame '{exam_key}'")
                     continue
-
-            print(f"[DEBUG RENDER] Procedo con l'apertura e la lettura del file: {filepath}")
+            
             with open(filepath, 'r', encoding='utf-8') as f:
                 content = f.read()
             
