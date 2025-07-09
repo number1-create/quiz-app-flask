@@ -33,6 +33,11 @@ EXAMS = {
         'filenames': ['PRACTICE TEST - ASVAB EXAM PREP.txt'],
         'num_questions': 110                        #numero domande per ogni test
     },
+    'sie'  : {
+        'display_name': 'sie Practice Test',
+        'filenames': ['SIE EXAM PREP online.txtSIE EXAM PREP online.txt'],
+        'num_questions': 110                          #numero domande per ogni test
+    },
 }
 
 # Nuova costante: il quiz “unico” o di default
