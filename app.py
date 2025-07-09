@@ -36,7 +36,7 @@ EXAMS = {
     'sie'  : {
         'display_name': 'sie Practice Test',
         'filenames': ['SIE EXAM PREP online.txt'],
-        'num_questions': 110                          #numero domande per ogni test
+        'num_questions': 75                          #numero domande per ogni test
     },
 }
 
