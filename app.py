@@ -38,6 +38,11 @@ EXAMS = {
         'filenames': ['SIE EXAM PREP online.txt'],
         'num_questions': 75                          #numero domande per ogni test
     },
+    'electrician'  : {
+        'display_name': 'JOURNEYMAN ELECTRICIAN Practice Test',
+        'filenames': ['JOURNEYMAN ELECTRICIAN EXAM PREP online.txt'],
+        'num_questions': 110                          #numero domande per ogni test
+    },
 }
 
 # Nuova costante: il quiz “unico” o di default
