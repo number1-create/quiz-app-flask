@@ -47,7 +47,6 @@ EXAMS = {
         'display_name': 'SIE EXAM  PREP',
         'filenames': ['Sie exam prep - account 4 - Web quesitons.txt'],
         'num_questions': 75                          #numero domande per ogni test
-    
 }
 
 # Nuova costante: il quiz “unico” o di default
@@ -360,4 +359,5 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
