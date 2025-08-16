@@ -3068,6 +3068,12 @@ PRACTICE TEST - SIE - PRODUCTS & RISKS
    C) Leverage risk.
    D) Operational risk.
 
+331. A registered representative is approached by a potential customer who expresses interest in investing in a new high-risk security. The representative provides detailed information about the security, including its risks and potential returns, and offers to assist in opening an account. Which regulatory requirement ensures that the representative's actions are appropriate and compliant?
+   A) Know Your Customer (KYC)
+   B) Anti-Money Laundering (AML)
+   C) Suitability Rule
+   D) Fair Dealing Standard
+
 
 
 --- CORRECT ANSWERS AND EXPLANATIONS ---
@@ -4061,6 +4067,9 @@ PRACTICE TEST - SIE - PRODUCTS & RISKS
 
 330. Correct Answer: C
    Explanation: Long-short equity funds often use leverage to amplify returns, which increases the risk of significant losses.
+
+331. Correct Answer: C
+   Explanation: The Suitability Rule requires that a registered representative ensures that any recommendation or transaction is suitable for the customer based on their financial situation, experience, and investment objectives. While KYC and AML regulations are important, they address different aspects of compliance.
 
 PRACTICE TEST - SIE - TRADING, ACCOUNTS & PROHIBITED ACTIVITIES
 
