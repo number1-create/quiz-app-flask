@@ -1,4 +1,4 @@
-PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) – MOBILE DEVICES – 200 IN-DEPTH RATIONALES
+PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) - MOBILE DEVICES - 200 IN-DEPTH RATIONALES
 
 1. A user reports that their smartphone cannot connect to public Wi-Fi, even though the Wi-Fi network is visible. What should be the first step to troubleshoot this issue?
    A) Verify the Wi-Fi password is correct.
@@ -1804,7 +1804,7 @@ PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) – MOBILE DEVICES – 200 IN-DEPTH
 200. Correct Answer: B
    Explanation: Battery optimization features often limit maximum charging capacity to prolong battery lifespan, stopping the charge at 80% or similar thresholds.
 
-PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) – NETWORKING – 200 IN-DEPTH RATIONALES
+PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) - NETWORKING - 200 IN-DEPTH RATIONALES
 
 1. A technician is tasked with configuring a small office network. The office has 10 employees, and each employee requires both wired and wireless connectivity. Which network topology would best suit this environment?
    A) Star topology
@@ -3610,7 +3610,7 @@ PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) – NETWORKING – 200 IN-DEPTH RAT
 200. Correct Answer: B
    Explanation: RADIUS provides centralized authentication and authorization, streamlining user management and improving security across the network.
 
-PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) – HARDWARE – 200 IN-DEPTH RATIONALES
+PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) - HARDWARE - 200 IN-DEPTH RATIONALES
 
 1. A technician is assembling a gaming PC and wants to ensure maximum performance while keeping the cost within budget. The motherboard has an LGA 1200 socket. Which type of processor is compatible with this socket?
    A) AMD Ryzen 7
@@ -5416,7 +5416,7 @@ PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) – HARDWARE – 200 IN-DEPTH RATIO
 200. Correct Answer: A
    Explanation: Overheating causes thermal throttling, reducing performance. Address the cooling issue to restore optimal clock speeds.
 
-PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) – VIRTUALIZATION & CLOUD COMPUTING – 200 IN-DEPTH RATIONALES
+PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) - VIRTUALIZATION & CLOUD COMPUTING - 200 IN-DEPTH RATIONALES
 
 1. A company is setting up a virtualized environment to test various operating systems on a single physical machine. Which hypervisor type is most suitable for this scenario?
    A) Type 1 Hypervisor
@@ -7222,7 +7222,7 @@ PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) – VIRTUALIZATION & CLOUD COMPUTIN
 200. Correct Answer: C
    Explanation: A hypervisor is responsible for creating and managing virtual machines, allowing multiple OS instances to run on a single physical machine.
 
-PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) – HARDWARE & NETWORK TROUBLESHOOTING – 200 IN-DEPTH RATIONALES
+PRACTICE TEST - COMPTIA A+ CORE 1 (220-1201) - HARDWARE & NETWORK TROUBLESHOOTING - 200 IN-DEPTH RATIONALES
 
 1. A user reports that their desktop computer is randomly shutting down. After checking the power supply, you find it is functioning correctly. What would be the NEXT logical step in troubleshooting the issue?
    A) Check for overheating by inspecting the CPU and case fans.
