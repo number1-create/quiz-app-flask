@@ -53,6 +53,11 @@ EXAMS = {
         'filenames': ['LMSW EXAM - FULL LENGTH TESTS.txt'],
         'num_questions': 75                          #numero domande per ogni test
     },
+    'COMPTIA A+  220-1201'  : {
+        'display_name': 'COMPTIA A+  220-1201',
+        'filenames': ['CompTIA_A+_Core1_2000_InDepthRationales.txt'],
+        'num_questions': 90                          #numero domande per ogni test
+    },
 }
 # Nuova costante: il quiz “unico” o di default
 DEFAULT_EXAM_KEY = 'fe-mechanical'
@@ -364,6 +369,7 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
 
 
