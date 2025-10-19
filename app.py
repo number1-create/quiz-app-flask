@@ -62,14 +62,18 @@ EXAMS = {
         'display_name': 'ADULT CCRN',
         'filenames': ['ADULT CCRN - QUESTIONS BANK.txt'],
         'num_questions': 150                         #numero domande per ogni test
-    },
-
-    
+    },   
     'PMHNP'  : {
         'display_name': 'PMHNP EXAM',
         'filenames': ['PMHNP WEB APP.txt'],
         'num_questions': 175                         #numero domande per ogni test
     },
+    'CPC'  : {
+        'display_name': 'CPC',
+        'filenames': ['CPC EXAM PREP - WEB APP.txt'],
+        'num_questions': 100                         #numero domande per ogni test
+    },
+
 }
 # Nuova costante: il quiz “unico” o di default
 DEFAULT_EXAM_KEY = 'fe-mechanical'
@@ -381,6 +385,7 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
 
 
