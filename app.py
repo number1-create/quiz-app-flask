@@ -78,6 +78,11 @@ EXAMS = {
         'filenames': ['MedSurg_WebExamSimulator_3050Questions.txt'],
         'num_questions': 150                         #numero domande per ogni test
     },
+    'LCSW'  : {
+        'display_name': 'LCSW',
+        'filenames': ['LCSW_WEB_APP.txt'],
+        'num_questions': 150                         #numero domande per ogni test
+    },
     
     }
 # Nuova costante: il quiz “unico” o di default
@@ -390,6 +395,7 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
 
 
