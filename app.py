@@ -73,9 +73,9 @@ EXAMS = {
         'filenames': ['CPC EXAM PREP - WEB APP.txt'],
         'num_questions': 100                         #numero domande per ogni test
     },
-    'ADULT CCRN'  : {
-        'display_name': 'ADULT CCRN',
-        'filenames': ['AdultCCRN_WebExamSimulator3050.txt'],
+    'MED-SURG'  : {
+        'display_name': 'MED-SURG',
+        'filenames': ['MedSurg_WebExamSimulator_3050Questions.txt'],
         'num_questions': 150                         #numero domande per ogni test
     },
     
@@ -390,6 +390,7 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
 
 
