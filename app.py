@@ -81,7 +81,7 @@ EXAMS = {
     'LCSW'  : {
         'display_name': 'LCSW',
         'filenames': ['LCSW_WEB_APP.txt'],
-        'num_questions': 150                         #numero domande per ogni test
+        'num_questions': 100                         #numero domande per ogni test
     },
     
     }
@@ -395,6 +395,7 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
 
 
