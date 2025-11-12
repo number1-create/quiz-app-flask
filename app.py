@@ -62,7 +62,12 @@ EXAMS = {
         'display_name': 'COMPTIA A+  Security+ SY0-701',
         'filenames': ['COMPTIA SICURITY APP.txt'],
         'num_questions': 90                          #numero domande per ogni test
-        },
+    },
+    'COMPTIA A+ 4-in-1'  : {
+        'display_name': 'COMPTIA A+ 4-in-1',
+        'filenames': ['COMPTIA A+ 4-in-1.txt'],
+        'num_questions': 90                          #numero domande per ogni test   
+    },
     'ADULT-CCRN'  : {
         'display_name': 'ADULT CCRN',
         'filenames': ['ADULT CCRN - QUESTIONS BANK.txt'],
@@ -400,6 +405,7 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
 
 
