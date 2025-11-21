@@ -93,8 +93,14 @@ EXAMS = {
         'filenames': ['LCSW_WEB_APP.txt'],
         'num_questions': 100                         #numero domande per ogni test
     },
+
+    'FE MECHANICAL 3'  : {
+        'display_name': 'FE MECHANICAL',
+        'filenames': ['FE Mechanical 3 — Web App (Formatted) (1).txt'],
+        'num_questions': 100                         #numero domande per ogni test
     
     }
+},
 # Nuova costante: il quiz “unico” o di default
 DEFAULT_EXAM_KEY = 'fe-mechanical'
 
@@ -405,6 +411,7 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
 
 
