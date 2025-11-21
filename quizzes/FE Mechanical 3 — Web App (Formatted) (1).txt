@@ -1,5 +1,4 @@
-Practice Test - FE Mechanical
-Area: Mathematics
+Practice Test - FE Mechanical - Mathematics
 
 1. A mechanical engineer uses matrices to analyze forces in a truss structure. If matrix A = [[2, 3], [1, 4]] and matrix B = [[5, 6], [7, 8]], what is the result of A x B?
    A) [[31, 36], [33, 38]]
@@ -772,8 +771,7 @@ Answers:
 
 
 
-Practice Test - FE Mechanical
-Area: Probability and Statistics
+Practice Test - FE Mechanical - Probability and Statistics
 
 1. A mechanical engineer is designing a gear system. The probability that Gear A fails is 0.15 and the probability that Gear B fails is 0.10. Assuming the failures are independent, what is the probability that both gears fail?
    A) 0.25
@@ -1280,9 +1278,8 @@ Answers:
 
 
 
-
-Practice Test - FE Mechanical
-Area: Computational Tools
+ 
+Practice Test - FE Mechanical - Computational Tools
 
 1. Which numerical integration method is best suited for approximating the integral of highly oscillatory functions?
    A) Trapezoidal Rule
@@ -1694,8 +1691,7 @@ Answers:
 
 
 
-Practice Test - FE Mechanical
-Area: Ethics and Professional Practice
+Practice Test - FE Mechanical - Ethics and Professional Practice
 
 1. An engineer discovers that a part of the design for a new mechanical system may not meet safety standards. What should they do first?
    A) Ignore the issue as it might not cause immediate problems.
@@ -2107,8 +2103,7 @@ Answers:
 
 
 
-Practice Test - FE Mechanical
-Area: Engineering Economics
+Practice Test - FE Mechanical - Engineering Economics
 
 1. A company plans to invest $10,000 in a project that will generate $1,500 annually for 10 years. If the interest rate is 8%, what is the net present value (NPV) of the project?
    A) $1,490
@@ -2533,8 +2528,7 @@ Answers:
 
 
 
-Practice Test - FE Mechanical
-Area: Electricity and Magnetism
+Practice Test - FE Mechanical - Electricity and Magnetism
 
 1. Two point charges, q1 = +3 μC and q2 = -5 μC, are placed 0.2 m apart in a vacuum. What is the magnitude of the electrostatic force between the charges? (Use k = 8.99 x 10^9 N·m²/C²)
    A) 3.37 N
@@ -3694,8 +3688,7 @@ Answers:
 
 
 
-Practice Test - FE Mechanical
-Area: Statics
+Practice Test - FE Mechanical - Statics
 
 1. A 5 kg box is sliding down a frictionless incline making a 30° angle with the horizontal. What is the acceleration of the box along the incline?
    A) 4.9 m/s²
@@ -4842,8 +4835,7 @@ Answers:
    Explanation: Compute the maximum speed using energy conservation: mgh = 0.5mv², where h = L(1 - cosθ).
 
 
-Practice Test - FE Mechanical
-Area: Dynamics, Kinematics, and Vibrations
+Practice Test - FE Mechanical - Dynamics, Kinematics, and Vibrations
 
 1. A 5 kg box is sliding down a frictionless incline making a 30° angle with the horizontal. What is the acceleration of the box along the incline?
    A) 4.9 m/s²
@@ -5988,8 +5980,7 @@ Answers:
    Explanation: Compute the maximum speed using energy conservation: mgh = 0.5mv², where h = L(1 - cosθ).
 
 
-Practice Test - FE Mechanical
-Area: Mechanics of Materials
+Practice Test - FE Mechanical - Mechanics of Materials
 
 1. A steel rod with a diameter of 20 mm is subjected to an axial tensile force of 40 kN. Assuming the modulus of elasticity is 200 GPa, what is the elongation of the rod if its length is 2 meters?
    A) 0.4 mm
@@ -6987,8 +6978,7 @@ Answers:
 
 
 
-Practice Test - FE Mechanical
-Area: Material Properties and Processing
+Practice Test - FE Mechanical - Material Properties and Processing
 
 1. Which material property describes a material's ability to absorb energy before failure?
    A) Ductility
@@ -7967,8 +7957,7 @@ Answers:
    Explanation: Annealing is a heat treatment process that softens the material, reducing internal stresses and improving machinability without compromising its overall properties.
 
 
-Practice Test - FE Mechanical
-Area: Fluid Mechanics
+Practice Test - FE Mechanical - Fluid Mechanics
 
 1. A vertical cylindrical tank is filled with water up to a height of 10 meters. What is the pressure at the bottom of the tank due to the water? Assume the density of water is 1000 kg/m³ and acceleration due to gravity is 9.81 m/s².
    A) 98.1 kPa
@@ -9119,8 +9108,7 @@ Answers:
 
 
 
-Practice Test - FE Mechanical
-Area: Thermodynamics
+Practice Test - FE Mechanical - Thermodynamics
 
 1. A rigid, insulated tank is divided into two compartments. One contains gas at 2 MPa and the other is evacuated. If the partition is removed, allowing the gas to fill the entire tank, what will be the final pressure of the gas?
    A) The final pressure will be less than 2 MPa.
@@ -10758,8 +10746,7 @@ Answers:
    Explanation: Thermal efficiency for a Rankine cycle is η = (Wt - Qc) / Qh, where Wt = turbine work and Qh = heat added. Here, Wt = 3200 - 2100 = 1100 kJ/kg and Qc = 2100 - 900 = 1200 kJ/kg. Qh = heat added = 3200 - 900 = 2300 kJ/kg. Thus, η = (1100) / (2300) = 0.478, or approximately 40%.
 
 
-Practice Test - FE Mechanical
-Area: Heat Transfer
+Practice Test - FE Mechanical - Heat Transfer
 
 1. A steel rod (thermal conductivity k = 50 W/m·K) is exposed to a temperature difference of 100°C across its 2-meter length. If the cross-sectional area of the rod is 0.01 m², calculate the rate of heat transfer through the rod.
    A) 250 W
@@ -11926,8 +11913,7 @@ Answers:
 
 
 
-Practice Test - FE Mechanical
-Area: Measurements, Instrumentation, and Controls
+Practice Test - FE Mechanical - Measurements, Instrumentation, and Controls
 
 1. A pressure gauge is used to measure the pressure of a gas in a tank. The gauge reads 125 kPa. If the atmospheric pressure is 101 kPa, what is the absolute pressure of the gas in the tank?
    A) 24 kPa
@@ -12639,8 +12625,7 @@ Answers:
 
 
 
-Practice Test - FE Mechanical
-Area: Mechanical Design and Analysis
+Practice Test - FE Mechanical - Mechanical Design and Analysis
 
 1. A cylindrical rod with a radius of 10 mm is subjected to a tensile force of 50 kN along its axis. What is the tensile stress experienced by the rod?
    A) 15.92 MPa
