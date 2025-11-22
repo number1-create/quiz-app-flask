@@ -510,7 +510,7 @@ Practice Test - FE Mechanical - Mathematics
    C) 0.64
    D) 0.9
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: A
    Explanation: Matrix multiplication involves summing the products of corresponding elements: A x B = [[(2*5+3*7), (2*6+3*8)], [(1*5+4*7), (1*6+4*8)]] = [[31, 36], [33, 38]].
@@ -1099,7 +1099,7 @@ Practice Test - FE Mechanical - Probability and Statistics
    C) 0.67
    D) 0.67
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: B
    Explanation: To find the probability of both events occurring independently, multiply the probabilities: P(A and B) = P(A) × P(B) = 0.15 × 0.10 = 0.015.
@@ -1538,7 +1538,7 @@ Practice Test - FE Mechanical - Computational Tools
    C) Laplace Transform
    D) Z-transform
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: C
    Explanation: Gaussian Quadrature is highly effective for integrating functions, especially those that are oscillatory, as it uses optimally chosen points and weights.
@@ -1947,7 +1947,7 @@ Practice Test - FE Mechanical - Ethics and Professional Practice
    C) Sign off but note your uncertainty in the critical section for future reference.
    D) Refuse to sign the report and escalate the issue to upper management.
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: B
    Explanation: Ethical practice requires engineers to prioritize safety and report potential issues to the appropriate authority within their organization.
@@ -2356,7 +2356,7 @@ Practice Test - FE Mechanical - Engineering Economics
    C) $7,500
    D) $8,000
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: B
    Explanation: To calculate the NPV, use the formula NPV = Σ(Cash Flow/(1 + r)^t) - Initial Investment. Summing cash flows over 10 years discounted at 8% and subtracting $10,000 results in $2,330.
@@ -3305,7 +3305,7 @@ of radius R, measured from the flat edge.
    C) 400 N
    D) 500 N
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: D
    Explanation: To solve, use the equations of equilibrium. Summing moments about the farther support gives the reaction force at the closer support as R = (200 N × 3 m + 100 N × 2.5 m) / 5 m = 250 N.
@@ -4373,7 +4373,7 @@ Practice Test - FE Mechanical - Statics
    C) 0.80 m/s
    D) 0.92 m/s
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 1. Correct Answer: A
    Explanation: The acceleration is calculated as a = g * sin(θ). Substituting g = 9.8 m/s² and θ = 30°, we get a = 9.8 * sin(30°) = 4.9 m/s².
 
@@ -5499,7 +5499,7 @@ Practice Test - FE Mechanical - Dynamics, Kinematics, and Vibrations
    C) 0.80 m/s
    D) 0.92 m/s
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 1. Correct Answer: A
    Explanation: The acceleration is calculated as a = g * sin(θ). Substituting g = 9.8 m/s² and θ = 30°, we get a = 9.8 * sin(30°) = 4.9 m/s².
 
@@ -6507,7 +6507,7 @@ Practice Test - FE Mechanical - Mechanics of Materials
    C) 70.00 GPa
    D) 60.00 GPa
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: A
    Explanation: Use the formula ΔL = (F * L) / (E * A), where A = π * d² / 4. Substituting values, ΔL = (40,000 * 2) / (200 * 10⁹ * π * (0.02)² / 4) = 0.4 mm.
@@ -7456,7 +7456,7 @@ Practice Test - FE Mechanical - Material Properties and Processing
    C) Hot rolling
    D) Age hardening
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: B
    Explanation: Toughness is the measure of a material's ability to absorb energy before it fractures.
@@ -8525,7 +8525,7 @@ Practice Test - FE Mechanical - Fluid Mechanics
    C) Reynolds number = 4000
    D) Weber number = 1
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: A
    Explanation: The pressure due to a liquid column is calculated using P = ρgh. Substituting values: P = (1000 kg/m³)(9.81 m/s²)(10 m) = 98,100 Pa = 98.1 kPa.
@@ -9958,7 +9958,7 @@ Practice Test - FE Mechanical - Thermodynamics
    C) 40%
    D) 50%
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: A
    Explanation: When the gas expands into the evacuated compartment, its pressure will decrease because of the increase in volume, assuming the process is adiabatic.
@@ -11239,7 +11239,7 @@ Practice Test - FE Mechanical - Heat Transfer
    C) 500 W/m²
    D) 600 W/m²
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: B
    Explanation: The heat transfer rate via conduction is calculated using Fourier’s Law: Q = (k × A × ΔT) / L. Substituting the values: Q = (50 × 0.01 × 100) / 2 = 500 W.
@@ -12068,7 +12068,7 @@ Practice Test - FE Mechanical - Measurements, Instrumentation, and Controls
    C) Capacitive proximity sensor
    D) Hall effect sensor
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: C
    Explanation: Absolute pressure is the sum of gauge pressure and atmospheric pressure. Therefore, 125 kPa + 101 kPa = 226 kPa.
@@ -13047,7 +13047,7 @@ Practice Test - FE Mechanical - Mechanical Design and Analysis
    C) 1.98
    D) 4.12
 
-Answers:
+--- CORRECT ANSWERS AND EXPLANATIONS ---
 
 1. Correct Answer: A
    Explanation: Tensile stress is calculated using the formula σ = F/A. The area of the cross-section is πr², where r = 10 mm = 0.01 m. Substituting values, σ = (50,000 N) / (π × (0.01 m)²) = 15.92 MPa.
