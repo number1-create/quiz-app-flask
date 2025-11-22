@@ -1,4 +1,4 @@
-Practice Test - FE Mechanical - Mathematics
+PRACTICE TEST - FE MECHANICAL - MATHEMATICS
 
 1. A mechanical engineer uses matrices to analyze forces in a truss structure. If matrix A = [[2, 3], [1, 4]] and matrix B = [[5, 6], [7, 8]], what is the result of A x B?
    A) [[31, 36], [33, 38]]
