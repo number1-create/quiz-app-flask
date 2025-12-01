@@ -1,4 +1,4 @@
-PRACTICE TEST - CAPM EXAM PREP CATEGORY: PROJECT MANAGEMENT FUNDAMENTALS & CORE CONCEPTS 
+PRACTICE TEST - CAPM EXAM PREP - PROJECT MANAGEMENT FUNDAMENTALS AND CORE CONCEPTS 
 
 1. During the execution phase of a project, a key stakeholder requests a major change that deviates from the originally agreed scope. What is the first step the project manager should take?
    A) Implement the change immediately to satisfy the stakeholder.
@@ -3244,7 +3244,7 @@ PRACTICE TEST - CAPM EXAM PREP CATEGORY: PROJECT MANAGEMENT FUNDAMENTALS & CORE 
 360. Correct Answer: B
    Explanation: Scheduling a meeting allows the project manager to address the stakeholder’s concerns directly and collaboratively identify solutions.
 
-PRACTICE TEST - CAPM EXAM PREP CATEGORY: PREDICTIVE, PLAN-BASED METHODOLOGIES 
+PRACTICE TEST - CAPM EXAM PREP - PREDICTIVE PLAN-BASED METHODOLOGIES
 
 1. During the planning phase of a project, the project manager is creating the project management plan. Which document should be consulted to define the project's baselines?
    A) Project charter
@@ -4780,7 +4780,7 @@ PRACTICE TEST - CAPM EXAM PREP CATEGORY: PREDICTIVE, PLAN-BASED METHODOLOGIES
 170. Correct Answer: C
    Explanation: The Procurement Statement of Work (SOW) defines the detailed deliverables and requirements to guide vendors in understanding the project needs clearly.
 
-PRACTICE TEST - CAPM EXAM PREP CATEGORY: AGILE FRAMEWORKS/METHODOLOGIES GENERATE 
+PRACTICE TEST - CAPM EXAM PREP - AGILE FRAMEWORKS METHODOLOGIES
 
 1. In Agile methodologies, what is the primary purpose of conducting daily stand-up meetings?
    A) To track individual performance metrics.
@@ -6586,7 +6586,7 @@ PRACTICE TEST - CAPM EXAM PREP CATEGORY: AGILE FRAMEWORKS/METHODOLOGIES GENERATE
 200. Correct Answer: A
    Explanation: The System Demo in SAFe provides an opportunity to validate the progress made during the iteration by showcasing the work to stakeholders and gathering feedback. This helps ensure alignment with the business objectives and customer needs.
 
-PRACTICE TEST - CAPM EXAM PREP CATEGORY: BUSINESS ANALYSIS FRAMEWORKS
+PRACTICE TEST - CAPM EXAM PREP - BUSINESS ANALYSIS FRAMEWORKS
 
 1. Which of the following tasks is the most critical when preparing a business analysis plan?
    A) Identifying stakeholders and their roles in the project.
