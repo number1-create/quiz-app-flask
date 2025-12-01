@@ -105,6 +105,12 @@ EXAMS = {
         'filenames': ['FE 3 prova MECHANICAL WEB APP.txt'],
         'num_questions': 110                         #numero domande per ogni test
    },
+   
+   'CAPM 3'  : {
+        'display_name': 'CAPM 3',
+        'filenames': ['CAPM Exam Prep — BONUS 1 3000 In-Depth Q&A.txt'],
+        'num_questions': 150                         #numero domande per ogni test 
+  },
 }
 # Nuova costante: il quiz “unico” o di default
 DEFAULT_EXAM_KEY = 'fe-mechanical'
@@ -416,6 +422,7 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
 
 
