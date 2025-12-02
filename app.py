@@ -100,9 +100,9 @@ EXAMS = {
         'num_questions': 110                         #numero domande per ogni test
     },
 
-    'FE MECHANICAL prova 3'  : {
-        'display_name': 'FE 3 MECHANICAL',
-        'filenames': ['FE 3 prova MECHANICAL WEB APP.txt'],
+    'FE CIVIL 3'  : {
+        'display_name': 'FE CIVIL',
+        'filenames': ['FE CIVIL 3 EXAM PREP — BONUS 3 WEB AP.txt'],
         'num_questions': 110                         #numero domande per ogni test
    },
    
@@ -422,6 +422,7 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
 
 
