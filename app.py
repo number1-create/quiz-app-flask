@@ -102,15 +102,21 @@ EXAMS = {
 
     'FE CIVIL 3'  : {
         'display_name': 'FE CIVIL',
-        'filenames': ['FE CIVIL 3 EXAM PREP — BONUS 3 WEB AP.txt'],
+        'filenames': ['FE CIVIL 3 - WEB APP.txt'],
         'num_questions': 110                         #numero domande per ogni test
    },
    
    'CAPM 3'  : {
         'display_name': 'CAPM 3',
-        'filenames': ['CAPM Exam Prep — BONUS 1 3000 In-Depth Q&A.txt'],
+        'filenames': ['CAPM EXAM PREP 3 Web App.txt'],
         'num_questions': 150                         #numero domande per ogni test 
   },
+
+  'FE ELECTRICAL 3'  : {
+        'display_name': 'FE ELECTRICAL',
+        'filenames': ['FE Electrical & Computer WEB APP.txt'],
+        'num_questions': 150                         #numero domande per ogni test 
+  },  
 }
 # Nuova costante: il quiz “unico” o di default
 DEFAULT_EXAM_KEY = 'fe-mechanical'
@@ -422,6 +428,7 @@ load_all_questions_into_bank()
 if __name__ == '__main__':
     
     app.run(debug=True, port=5002)
+
 
 
 
